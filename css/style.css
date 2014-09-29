@@ -1,3 +1,12 @@
+/* Font Face */
+@font-face {
+    font-family: 'piron';
+    src: url('../fonts/TFPironv2.otf');
+    font-weight: lighter;
+    font-stretch: normal;
+}
+
+
 /*reset*/
 
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,td 
@@ -25,7 +34,6 @@ h1
 		/*background:url(../img/logo.png);*/
 		width:5em;
 		height:3em;
-		display:none;
 		}
 		
 h2
@@ -106,10 +114,10 @@ td
 
 #header
 	{
-		float:left;
+		/*float:left;*/
 		width:100%;
 		height:11em;
-		background:url(../img/header-2.png);
+		/*background:url(../img/header-2.png);*/
 		}
 
 #footer
@@ -122,16 +130,34 @@ td
 	{
 		float:left;
 		text-align:left;
-		width:20em;
-		margin:2.5em 0;
+		width:50%;
+		/*margin:2.5em 0;*/
 		}
+
+#home .site-name {
+		font-family: "piron", sans-serif, arial;
+		font-size: 4em;
+		margin-top: 55px;
+		margin-left: 23px;
+		letter-spacing: -3px;
+		color: #F8EC1E;
+}
+
+#header-right .site-dates {
+		font-family: "piron", sans-serif, arial;
+		font-size: 2.6em;
+		margin-right: 27px;
+		padding-top: 60px;
+		letter-spacing: -2px;
+		color: #fff;
+
+}
 		
 #header-right
 	{
 		float:right;
 		text-align:right;
-		width:20em;
-		margin:2.5em 0;
+		width:50%;
 		}
 		
 #header-right span
@@ -142,7 +168,7 @@ td
 		
 #menu
 	{
-		float: left;
+		/*float: left;*/
 		text-align: left;
 		margin:0;
 		height:4em;
@@ -159,7 +185,7 @@ td
 
 #main
 	{	
-		float:left;
+		/*float:left;*/
 		width:100%;
 		background:#f8f8f8;
 		display:none;
@@ -168,7 +194,7 @@ td
 	
 #main-home
 	{	
-		float:left;
+		/*float:left;*/
 		width:100%;
 		background:#f8f8f8;
 		display:none;
@@ -220,7 +246,7 @@ td
 	{	
 		position: absolute;
 		font-size: 0.75em;
-		color: rgb(155, 155, 155);
+		color: #fff;
 		top: 84em;
 		left: 1em;
 		}		
@@ -292,7 +318,9 @@ ul.para li
 		-webkit-filter: grayscale(0%); 
 		}
 
+/* Classes */
 
+.clearfix {}
 
 
 		

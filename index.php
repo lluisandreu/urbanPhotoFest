@@ -1,21 +1,21 @@
-<?php include 'head-begin.php'; ?>
+<?php $page_title_fixed = "Urban Photo Fest"; ?>
+<?php $page_title = "Welcome"; ?>
+<?php $meta_description = "Urban Photo Fest is an international photographic festival focusing on urban photography and associated visual research."; ?>
 
-
-
-<?php include 'head-end.php'; ?>
+<?php include_once 'includes/head.php'; ?>
 
 <body>
 
-<?php include 'header-start.php'; ?>
-<?php include 'menu.php'; ?>
-<?php include 'header-end.php'; ?>
+<?php include_once 'includes/header-start.php'; ?>
+<?php include_once 'includes/menu.php'; ?>
+<?php include_once 'includes/header-end.php'; ?>
 
     <div id="main-home">
   
-        <img src="img/UPF-home-2.jpg" alt="urban photo fest">
+        <img src="img/1.jpg" alt="urban photo fest">
         
         <div class="credit">&copy; UrbanPhotoFest</div>
         
 	</div>
 
-<?php include 'footer.php'; ?>
+<?php include_once 'includes/footer.php'; ?>
