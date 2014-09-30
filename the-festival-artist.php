@@ -6,7 +6,7 @@
 <?php include_once 'includes/menu.php'; ?>
 <?php include_once 'includes/header-end.php'; ?>
 
-    <div id="main">
+    <div id="main" class="clearfix">
 
         <div class="text">
 
@@ -57,20 +57,9 @@
 				Max Neuhaus with the publication of <em>De Max-Feed a Radio Net</em> (2014), part of
 				the <em>Média Médiums</em> book series. </p>
 
-		<p><img src="img/2.3-logo.jpg" alt="2.3-logo" width="150px" /></p>
-
     	</div>
 
 	    <div class="images-right">
-
-			<iframe src="//player.vimeo.com/video/51638397?title=0&amp;byline=0&amp;portrait=0&amp;color=000000" width="420" height="237" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-			<p></p>
-			<!--
-	    	<img src="img/2.3i-new-2.jpg" alt="2.3i-new-2" width="" height="" />
-			<img src="img/2.3ii-new.jpg" alt="2.3ii-new" width="" height="" />
-			-->
-
 		</div>
 
 	</div>

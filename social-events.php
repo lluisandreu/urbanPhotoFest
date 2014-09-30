@@ -1,128 +1,112 @@
-<?php include 'head-begin.php'; ?>
+<?php $page_title_fixed = "Urban Photo Fest"; ?>
+<?php $page_title = "Social Events"; ?>
+<?php $meta_description = "This year’s Urban Encounters symposium looks at the visual manifestations 
+					and effects of movement, mobility and migration on the historic and 
+					contemporary city"; ?>
+<?php include_once 'includes/head.php'; ?>
+<?php include_once 'includes/header-start.php'; ?>
+<?php include_once 'includes/menu.php'; ?>
+<?php include_once 'includes/header-end.php'; ?>
 
-Social Events
+    <div id="main" class="clearfix">
 
-<?php include 'head-end.php'; ?>
+	    <div class="images-text-group">
+	  
+	        <div class="text">
+	        
+	            <h1>Social Events</h1>
 
-<body>
+	            <h3>Urban Photo Fest Opening Reception</h3>
+	            
+				<p>We will be hosting the opening of Urban Photo Fest this year at Tate Britain in 
+					the Clore Auditorium Foyer. This is great opportunity to meet with other urban 
+					photographers, film-makers, artists, researchers and those interested in 
+					contemporary city life. This event is open to those attending the Urban 
+					Encounters conference, so early booking of your ticket is recommended. </p>
 
-<?php include 'header-start.php'; ?>
-<?php include 'menu.php'; ?>
-<?php include 'header-end.php'; ?>
+				<p>Please note that on Saturday 25 October, we are providing a Routemaster 
+					double-decker bus to take those attending the Tate conference to the Habitus 
+					exhibition at the Menier Gallery at [pick-up time pending from Stefano or 
+					Kamal] </p>
 
-    <div id="main">
-  
-        <div class="text">
-        
-            <h2>Urban Photo Fest Opening Event</h2>
-            
-			<p>We are pleased to announce that Urban Photo Fest 2013 will open with the exhibition <em>The Surface of Self</em> at Photofusion, Brixton, by artists Laura Cuch, Anastassios Kavassis and Orly Zailer. Please go to ‘Exhibitions’ for further details. Free bar until 19:00.</p>
-			 
-			<table border="0" cellpadding="24">
-			  <tr>
-			    <td class="table-bold">Date</td>
-			    <td>03 October 2013</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Time</td>
-			    <td>18:30 – 21.30</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Venue</td>
-			    <td>Photofusion | 17A Electric Lane | London SW9 8LA</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Nearest Tube</td>
-			    <td>Brixton</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Cost</td>
-			    <td>Free</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Info and Booking</td>
-			    <td><a href="http://www.photofusion.org/exhibitions/surface-of-self/" target="_blank">www.photofusion.org/exhibitions/surface-of-self</a></td>
-			  </tr>
-			</table>
-			
-			
-			<hr/>
-			
-			<h2>RPS - UPF Competition – Private View and Prize Giving</h2>
-            
-			<p>The finalists’ entries for the Urban Photo Fest competition “Materialities” will be exhibited between the 7th and 30th October.</p>
-			 
-			<table border="0" cellpadding="24">
-			  <tr>
-			    <td class="table-bold">Date</td>
-			    <td>07 October 2013</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Time</td>
-			    <td>19:00</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Venue</td>
-			    <td>The Greenwich Gallery | Linear House | Peyton Place | Greenwich | SE10 8RS
-</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Nearest Tube</td>
-			    <td>Greenwich</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Cost</td>
-			    <td>Free</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Info and Booking</td>
-			    <td><a href="http://www.rps.org/region/London/events/view/3193" target="_blank">www.rps.org/region/London/events/view/3193</a></td>
-			  </tr>
-			</table>
-
-
-			<hr/>
-			
-			<h2>Final Social Evening / Festival Workshops Projection</h2>
-            
-			<p>Urban Photo Fest’s final event for 2013 will feature images from the various festival events, and provide a projection showcase for participants attending the festival workshops, walks and master-class. UrbanPhotoFesters will have the opportunity to meet with the festival organisers, exchange contacts and ideas; and for those photographers thinking about submitting work for next year’s RPS-UPF urban photography competition, to see some of the images that were short-listed and selected for awards.</p>
-			 
-			<table border="0" cellpadding="24">
-			  <tr>
-			    <td class="table-bold">Date</td>
-			    <td>12 October 2013</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Time</td>
-			    <td>14:00 – 17:00</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Venue</td>
-			    <td>The Amersham Arms | 388 New Cross Road | SE14 6TY</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Nearest Tube</td>
-			    <td>New Cross, New Cross Gate</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Cost</td>
-			    <td>Free</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Info and Booking</td>
-			    <td>No booking needed | <a href="http://www.theamershamarms.com" target="_blank">www.theamershamarms.com</a></td>
-			  </tr>
-			</table>
-
-
-			
-    	</div>
-    
-	    <div class="images-right">
-	    
-	    
+				<table border="0" cellpadding="24">
+				  <tr>
+				    <td class="table-bold">Date</td>
+				    <td>24 October 2014</td>
+				  </tr>
+				  <tr>
+				    <td class="table-bold">Time</td>
+				    <td>16:30 – 18:30</td>
+				  </tr>
+				  <tr>
+				    <td class="table-bold">Venue</td>
+				    <td>Tate Britain, Clore Auditorium Foyer</td>
+				  </tr>
+				  <tr>
+				    <td class="table-bold">Nearest Tube</td>
+				    <td>Pimlico</td>
+				  </tr>
+				  <tr>
+				    <td class="table-bold">Cost</td>
+				    <td>Included in conference ticket price</td>
+				  </tr>
+				  <tr>
+				    <td class="table-bold">Info and Booking</td>
+				    <td>Please see <a href="http://www.tate.org.uk/whats-on/tate-britain/conference/urban-encounters-2014-movementsmobilitiesmigrations" target="_blank"><strong>link</strong></a></td>
+				  </tr>
+				</table>
+				
+			</div>
 		</div>
 
+	    <div class="images-text-group">
+	  
+	        <div class="text">
+
+	            <h3>Urban Photo Fest Closing Reception</h3>
+	            
+				<p>The closing event of Urban Photo Fest will be hosted by The Greenwich 
+					Gallery. For those attending events throughout the five days, this will provide 
+					and opportunity to see the final exhibition, and to network with people that 
+					have attended other festival events. Undoubtedly, there will be conversations 
+					about future events and collaborations, and along with the photographic work, 
+					there will be wine. </p>
+
+				<p>Please note that on Saturday 25 October, we are providing a Routemaster 
+					double-decker bus to take those attending the Tate conference to the Habitus 
+					exhibition at the Menier Gallery at [pick-up time pending from Stefano or 
+					Kamal] </p>
+
+				<table border="0" cellpadding="24">
+				  <tr>
+				    <td class="table-bold">Date</td>
+				    <td>28 October 2014</td>
+				  </tr>
+				  <tr>
+				    <td class="table-bold">Time</td>
+				    <td>19:00 – 21.00</td>
+				  </tr>
+				  <tr>
+				    <td class="table-bold">Venue</td>
+				    <td>The Greenwich Gallery | Linear House | Peyton Place | Greenwich | SE10 8RS</td>
+				  </tr>
+				  <tr>
+				    <td class="table-bold">Nearest Tube</td>
+				    <td>Greenwich</td>
+				  </tr>
+				  <tr>
+				    <td class="table-bold">Cost</td>
+				    <td>Free</td>
+				  </tr>
+				  <tr>
+				    <td class="table-bold">Info and Booking</td>
+				    <td>No booking needed</td>
+				  </tr>
+				</table>
+				
+			</div>
+		</div>
+			
 	</div>
 
-<?php include 'footer.php'; ?>
+<?php include_once 'includes/footer.php'; ?>

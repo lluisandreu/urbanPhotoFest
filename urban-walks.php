@@ -1,57 +1,66 @@
-<?php include 'head-begin.php'; ?>
+<?php $page_title_fixed = "Urban Photo Fest"; ?>
+<?php $page_title = "Urban Walks"; ?>
+<?php $meta_description = "Urban Photo Fest is pleased to announce this year’s masterclass will be presented by 
+international photographer Peter Marlow"; ?>
+<?php include_once 'includes/head.php'; ?>
+<?php include_once 'includes/header-start.php'; ?>
+<?php include_once 'includes/menu.php'; ?>
+<?php include_once 'includes/header-end.php'; ?>
 
-Urban Walks 
-
-<?php include 'head-end.php'; ?>
-
-<body>
-
-<?php include 'header-start.php'; ?>
-<?php include 'menu.php'; ?>
-<?php include 'header-end.php'; ?>
-
-    <div id="main">
+    <div id="main" class="clearfix">
     
     	<div class="images-text-group">
   
 	        <div class="text">
-	        
-	            <h2>Erection, edifice and eccentricity:<br/> an eclectic's tour of Chelsea</h2>
-            
-			<p><b>The Tutor:</b> Del Barrett ARPS is a free-lance writer and lecturer, who is Chair of both the RPS Documentary & Visual Journalism Group and of the London region. Del is a regular contributor to Advanced Photography magazine. Her photography can be broadly described as contemporary urban documentary, covering a range of topics from Hyper-Reality in the High Street to Streetology on the Banks of the Danube. Having lived in Chelsea for 25 years, the area is one of her favourite photographic locations.</p>
-			 
-			<p><b>The Walk:</b> Old Chelsea has been home to many artists and eccentric denizens over the years, as well as fictional characters including James Bond and George Smiley. The streets are bursting with eclectic mixes of architecture and idiosyncracy, not to mention blue plaques - Cheyne Walk allegedly has more blue plaques than any other street in the UK. With the help of anecdotes, local trivia and snippets of history, this guided walk will offer participants the chance to capture the unusual and the bizarre in the streets of Old Chelsea.</p>
-			
-			<p>Two optional <b>assignments</b> will be offered:</p>
-			 
-			<p>1. <em>Where did they live?</em><br>Armed with a set of clues, participants will be challenged to find and shoot the buildings where the famous and infamous once resided. There will be a small prize for the image that in the opinion of the judges is the most creative and aesthetically pleasing.</p>
-			
-			<p>2. <em>Furniture</em><br>Old Chelsea offers a wealth of architectural detail and street furniture – from the Victorian tiles of the Michelin Building to the assortment of drainhole covers in the back streets. Participants will be asked to produce a “Collection of Detail”. All participants will have the chance to exhibit their work in the RPS London Space (The Cave in Greenwich).</p>
 
-			
-			<p><b>Needed:</b> Camera, memory cards/film, spare batteries, warm, comfortable clothing, sensible footwear. Tripod would be useful.</p>
+	        <h1>Urban Walks</h1>
+	        
+	        <h3>Cruising Hackney: Capturing the culture of London’s gentrification</h3>
+            
+	        <p>The Tutor: Juliet Kahne is a writer, researcher and photographer from Los Angeles. She 
+				recently obtained her PhD in urban/cultural geography from King’s College London, and most 
+				of her past work has focused on gentrification and the changing cultural landscape of urban 
+				neighbourhoods and city centres. With an interest in all aspects of urban culture – from 
+				architecture to fashion, live performance to abstract urban blogging – she seeks to bring the 
+				nooks and crannies of urban living to a wider audience through an array of visual mediums, 
+				and her photography is an attempt to reflect an intersection between the urban, the political, 
+				and the comical.</p>
+
+			<p>The Walk: From the bustling shopping-scapes of Hoxton, to the middle-class colonization 
+				taking place between Dalston and Stoke Newington, this walk will observe, investigate, and 
+				question varying stages of gentrification by identifying visual markers of the process in 
+				Hackney’s urban landscape. Within this street photographer’s paradise, various stages of 
+				gentrification are presented in an array of forms –from Kebab shops to artisan coffee shops, 
+				from bric-a-brac to farmers markets, from dilapidated buildings to historic renovations – there 
+				is plenty of room for interpretation, investigation, and representation. The walk will enhance 
+				one’s understanding of the gentrification process and how it consumes spaces in the city with 
+				a range of outcomes. Economic, social, and cultural change is evident and constantly 
+				changing throughout the areas we will explore, and there will be endless opportunities to 
+				capture this process through the lens. </p>
+
+			<p><strong>Needed:</strong> A camera and comfortable shoes for walking. </p>
 			
 			
 			<table border="0" cellpadding="24">
 			  <tr>
 			    <td class="table-bold">Date</td>
-			    <td>06 October 2013</td>
+			    <td>26 October 2014</td>
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Meeting Time</td>
-			    <td>14.00</td>
+			    <td>11:00</td>
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Meeting Point</td>
-			    <td>Bibendum Restaurant, Michelin House,<br> 81 Fulham Road, SW3 6RD</td>
+			    <td>Hoxton, out front of main exit, Geffrye Street | E2 8FF</td>
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Distance / Duration</td>
-			    <td>3 km / 3 hours</td>
+			    <td>6.5 km / 2-3 hours</td>
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Places</td>
-			    <td>15</td>
+			    <td>12</td>
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Cost</td>
@@ -59,7 +68,7 @@ Urban Walks
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Info and Booking</td>
-			    <td>Please use our <a href="contact.php">contact form</a></td>
+			    <td>Please contact <a href="mailto:b.v.argueta@gold.ac.uk"><strong>b.v.argueta@gold.ac.uk</strong></a></td>
 			  </tr>
 			</table>
 
@@ -81,18 +90,33 @@ Urban Walks
     	
 	        <div class="text">
 
-			<h2>Urban Edge</h2>
+			<h3>London’s Olympic Park</h3>
 			
-			<p><b>The Tutor:</b> Peter Coles is a photographer and freelancer journalist, writer and editor. A Visiting Fellow in CUCR (Goldsmiths) since 2007 he is a regular tutor on the MA in Photography and Urban Cultures and the International Photography Summer School. Interested in abandoned and found objects in urban streets, Peter's work also focuses on the meetings between urban and rural, the built environment and plant and animal life, especially the way that traces of former developments and land use can be seen in contemporary urban geography. <a href="http://www.petercoles.net/" target="_blank" />www.petercoles.net</a></p>
-			 
-			<p><b>The Walk:</b> The walk follows the Greenway, a raised footpath tracing a waste water outfall, from Stratford in east London, to the Thames at Woolwich. The walk passes through varying landscapes, with allotments, a cemetery, mudflats, parks and housing, becoming increasingly industrial, with disused gasworks, docks and factories by the river. The main challenge is to record the ways in which "nature" and "urban" meet, whether harmoniously, or in conflict.</p>
-			
-			<p><b>Needed:</b> walking shoes / <b>Optional</b>: camera, notebook, binoculars, video camera, or sound recording equipment.</p>
+			<p>The Tutor: Anthony Palmer has been photographing the Olympic Park landscape for six 
+				years and was previously the Filming and Photography Manager for the Olympic Delivery 
+				Authority. </p>
+
+			<p>The Walk: London’s Queen Elizabeth Olympic Park re-opened after the 2012 Games in two 
+				stages, firstly July 2013 and then April 2014, and is now a large public park similar in size to 
+				Hyde Park. For those unfamiliar with the changes, this Olympic Park walk is an opportunity to 
+				see how the Park is re-establishing itself, how it is being used and how it connects up to 
+				places that have remained peripheral to it for the last six years of construction works. </p>
+
+			<p>Within the Park we will be able to see the legacy venues of the Velo Park and Aquatics Centre 
+				that are now in use and how the Olympic Village is becoming the new residential 
+				neighborhood of East Village. We will look at the different ways in which the landscaping has 
+				produced a sustainable, naturalistic habitat in the north Park, while in the south Park there 
+				are the themed 2012 Gardens and Great British Garden to see. As we go there will be 
+				opportunities to look at the context of the wider Stratford City and The International Quarter 
+				regenerations as well as discuss how residential redevelopment is affecting existing 
+				communities that now border the Park. </p>
+
+			<p><strong>Needed:</strong> A camera and comfortable shoes for walking.</p>
 			
 			<table border="0" cellpadding="24">
 			  <tr>
 			    <td class="table-bold">Date</td>
-			    <td>06 October 2013</td>
+			    <td>26 October 2014</td>
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Meeting Time</td>
@@ -100,15 +124,15 @@ Urban Walks
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Meeting Point</td>
-			    <td>Stratford Station main entrance, E15 1AZ</td>
+			    <td>Stratford International DLR Station | E15 2DU</td>
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Distance / Duration</td>
-			    <td>4 miles / 3 to 4 hours</td>
+			    <td>4.7 km / 3 hours</td>
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Places</td>
-			    <td>15</td>
+			    <td>12</td>
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Cost</td>
@@ -116,46 +140,56 @@ Urban Walks
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Info and Booking</td>
-			    <td>Please use our <a href="contact.php">contact form</a></td>
+			    <td>Please contact <a href="b.v.argueta@gold.ac.uk"><strong>b.v.argueta@gold.ac.uk</strong></a></td>
 			  </tr>
 			</table>
 			
 			</div>
-			
-	    <div class="images-right">
+
+			<div class="images-right">
 	    
-	    	<img src="img/3.4b.jpg" alt="Peter Coles">
+	    		<img src="img/3.4b.jpg" alt="Peter Coles">
 	    	
 	    	<div class="caption">Image © Peter Coles</div>
 	    
 		</div>
-			
-			
-		</div>
-			
+
+		</div>			
     	
     	<div class="images-text-group">
     	
 	        <div class="text">
 
-			<h2>VoHo to Soho: <br>A Walk in a City of Pleasure</h2>
+			<h3>Brighton</h3>
 			
-			<p><b>The Tutors:</b> Yanni Eleftherakos studied Business and Finance before joining Goldsmiths Sociology and CUCR for his MA in Photography and Urban Cultures. He is now pursuing a PhD in Visual Sociology while his research interests lie in issues of urban identity, place inspiration to human action, trust in the city and urban sanctuaries. He is also the Programme Co-ordinator of UrbanPhotoFest and he is a keen on walker and photographer of the city.</p>
-			
-			<p><a href="http://www.visualurbanist.com" target="_blank">www.visualurbanist.com</a></p>
-			
-			<p>Johannes Rigal is a visual sociologist, photographer, curator and workshop teacher. He did a BA in Development Studies in Vienna before deciding to combine photography and social sciences. At Goldsmiths, University of London, he completed an MA in Photography and Urban Cultures in 2011. He is based in London, Berlin and Vienna and is currently a Visiting Fellow at Goldsmiths College. He works as part of Gasket-Gallery and is a co-ordinator of Urban Photo Fest.</p>
-			
-			<p><a href="http://www.johannesrigal.com" target="_blank">www.johannesrigal.com</a></p>
-			 
-			<p><b>The Walk:</b> Think about a city. Think about pleasure gardens and dance clubs and guys in steam rooms. Think about secret agents and expensive tower blocks and goats and pigs and ponies. Think about art and politicians, about lords and MPs and a sovereign. Think about churches and palaces and council flats. Think about monuments and bells and gigantic wheels and fish in tanks and paintings. Think about violins and pianos and actors and buskers and opera singers. Think about oysters and hot dogs and juices and chips and paella and pizza and beer and noodles and champagne. Think about multinationals and bookstalls. Think about migrants and tourists. Think about prostitutes and drug dealers. Think about currency and trainers and uniforms and black ties and Chinese remedies and sex toys and porn. Think about massage and alcohol and ice cream and cannabis and coffee. Think about trains and buses and cars and boats and ships and scooters. Think about roads and pavements and soil and tracks and bridges. Think about eating and drinking and smoking and standing and sitting and lying and walking and jogging and skating and cycling and queuing and waiting and shopping and watching and listening and smelling and photographing. Think about the air and the earth and the water. Think about people. And now think about you…</p>
-			
-			<p><b>Needed:</b> A camera and comfortable shoes.</p>
+			<p>The Tutor: Gill Golding is an urban landscape photographer whose method of engaging with 
+				the urban environment is to walk. She has lived in Brighton &amp; Hove for 20 years and has 
+				enjoyed discovering several histories of the city, and through her walking, has observed and 
+				experienced changes to numerous neighbourhoods. Gill is currently pursuing an MA in 
+				Photography and Urban Cultures at Goldsmiths University.</p>
+
+			<p>The Walk: When we think of Brighton, we tend to think about the sea, the pier, the Pavilion 
+				and the Regency architecture, but there is another side of Brighton to explore also. Brighton 
+				&amp; Hove became a city in 2000, and beneath the facades of the different neighbourhoods are 
+				stories of poverty, wealth, loss of industry, gentrification and urban renewal. From the 
+				beginnings of a small fishing town to the vibrant city that exists today, each era has brought 
+				with it a new story, layered on top of the old one. Come and discover how our culture of 
+				independent shops emerged; see some examples of the bungaroosh used in some of our 
+				architecture; walk down a twitten or two with me.</p>
+
+			<p>Our walk begins at the station where, over a cup of coffee, a potted history of the area is 
+				provided. We will walk through London Road, the North Laine, The Lanes and Kemptown, 
+				walking back along the seafront as the light is fading and, if there are clear skies, the sun will 
+				be setting. There will be a brief lunch break which, depending on the weather, will be by the 
+				sea or in a local cafe. </p>
+
+
+			<p><strong>What you will need:</strong> Comfortable shoes and any type of camera (yes, a phone camera will be fine!) – and if you would prefer, a packed lunch</p>
 			
 			<table border="0" cellpadding="24">
 			  <tr>
 			    <td class="table-bold">Date</td>
-			    <td>06 October 2013</td>
+			    <td>26 October 2014</td>
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Meeting Time</td>
@@ -163,11 +197,11 @@ Urban Walks
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Meeting Point</td>
-			    <td>Vauxhall Underground Station, Bus Station Exit (street level), SW8 1SS</td>
+			    <td>Brighton Train Station –The Passenger Lounge café (to the left of the station as you come through the ticket barrier) </td>
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Distance / Duration</td>
-			    <td>2.5 miles (4km) / 2-3 hours</td>
+			    <td>8 km / 6 hours (including lunch break) </td>
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Places</td>
@@ -179,81 +213,23 @@ Urban Walks
 			  </tr>
 			  <tr>
 			    <td class="table-bold">Info and Booking</td>
-			    <td>Please use our <a href="contact.php">contact form</a></td>
+			    <td>Please contact <a href="b.v.argueta@gold.ac.uk"><strong>b.v.argueta@gold.ac.uk</strong></a></td>
 			  </tr>
 			</table>
 			
 			</div>
-			
-	    <div class="images-right">
+
+			<div class="images-right">
 	    
-	    	<img src="img/3.4c.jpg" alt="Yanni Eleftherakos, Soho, 2009">
+	    		<img src="img/3.4c.jpg" alt="Yanni Eleftherakos, Soho, 2009">
 	    	
 	    	<div class="caption">Image © Yanni Eleftherakos (Soho, 2009)</div>
 	    
 		</div>
-			
-		</div>
-			
-			
-    	<div class="images-text-group">
-    	
-    		<div class="text">
 
-			<h2>CITY EAST:<br> liminal, not peripheral: a walk</h2>
-			
-			<p><b>The Tutor:</b> Peter Luck is a retired architect, presently a photographer and researcher into aspects of London history, particularly relating to industry and the Thames. He is a member of LIP, of the Crossing Lines group, the Port of London Study Group and of a foreshore recording and observation group in the Thames Discovery Programme.</p>
-			
-			<p><b>The Walk:</b> An area from Mark Lane in the west to Back Church Lane in the east changes its apparent character along its course: unquestionably City in the west, unquestionably Inner London in the east with no clear delineation between the two. No certainty either which, administratively or culturally, one is in whilst traversing the middle zones.</p>
-			<p>The area was closely associated with the down-river docks. East India Company warehouses stood until mid nineteenth century when demolition began for Fenchurch Street station and Lloyds Avenue development. Railway company warehouses grew beyond the city. Sugar-boilers departed. In 1885 the Cooperative Wholesale Society established its London headquarters on Leman Street. Bank office and computer complexes have replaced warehousing and are being replaced by up-market housing.</p>
-			<p>We begin in the City at Fenchurch Street station and wind eastwards through layers of urban history and present development, returning to Tower Gateway.</p>
-			
-			<p><b>Needed:</b> Camera and comfortable shoes</p>
-			
-			<table border="0" cellpadding="24">
-			  <tr>
-			    <td class="table-bold">Date</td>
-			    <td>06 October 2013</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Meeting Time</td>
-			    <td>11:00</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Meeting Point</td>
-			    <td>Fenchurch Street Station, EC3M 4AJ</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Distance / Duration</td>
-			    <td>12km / 3 hours</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Places</td>
-			    <td>12</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Cost</td>
-			    <td>£10</td>
-			  </tr>
-			  <tr>
-			    <td class="table-bold">Info and Booking</td>
-			    <td>Please use our <a href="contact.php">contact form</a></td>
-			  </tr>
-			</table>
-
-			
-    	</div>
-    	
-	    <div class="images-right">
-	    
-	    	<img src="img/3.4d.jpg" alt="Peter Luck">
-	    	<div class="caption">Image © Peter Luck</div>
-	    
 		</div>
-    
 		
-    	</div>
 
 	</div>
 
-<?php include 'footer.php'; ?>
+<?php include_once 'includes/footer.php'; ?>

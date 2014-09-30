@@ -11,9 +11,9 @@
             </li>
             <li><a href="#">Events &#8744;</a>
             	<ul>
-                    <li><a href="#">Symposium</a></li>
-                    <li><a href="#">Masterclass</a></li>
-                    <li><a href="workshops-and-seminars.php">Workshops &amp; Seminars</a></li>
+                    <li><a href="symposium.php">Symposium</a></li>
+                    <li><a href="masterclass.php">Masterclass</a></li>
+                    <li><a href="workshops.php">Workshops &amp; Seminars</a></li>
                     <li><a href="urban-walks.php">Urban Walks</a></li>
                     <li><a href="social-events.php">Social Events</a></li>
                 </ul>

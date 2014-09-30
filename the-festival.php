@@ -5,7 +5,7 @@
 <?php include_once 'includes/header-start.php'; ?>
 <?php include_once 'includes/menu.php'; ?>
 <?php include_once 'includes/header-end.php'; ?>
-<div id="main">
+<div id="main" class="clearfix">
     <div class="text">
         <h2>The Festival</h2>
 
