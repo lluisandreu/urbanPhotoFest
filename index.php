@@ -4,18 +4,16 @@
 
 <?php include_once 'includes/head.php'; ?>
 
-<body>
-
 <?php include_once 'includes/header-start.php'; ?>
 <?php include_once 'includes/menu.php'; ?>
 <?php include_once 'includes/header-end.php'; ?>
 
     <div id="main-home">
-  
+
         <img src="img/1.jpg" alt="urban photo fest">
-        
+
         <div class="credit">&copy; UrbanPhotoFest</div>
-        
+
 	</div>
 
 <?php include_once 'includes/footer.php'; ?>
