@@ -12,7 +12,7 @@
 
         <div class="text">
 
-            <h1>Download or programme</h1>
+            <h1>Download Urban Photo Fest 2014 programme</h1>
 
             <p>Awaiting content...</p>
 
