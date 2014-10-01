@@ -2,7 +2,7 @@
 if(isset($_POST['submit'])){
 
        $to = "oliverobrador@gmail.com";
-       $subject = "New enquiry form submission from UPF website";
+       $subject = "New enquiry from UPF website";
        $error_message = "";
 
            // validation expected data exists
@@ -36,11 +36,9 @@ if(isset($_POST['submit'])){
 
        $headers = 'From: '.$email."\r\n".
 
-       'Reply-To: '.$email."\r\n" .
+       'Reply-To: '.$email."\r\n";
 
-       'X-Mailer: PHP/' . phpversion();
-
-       @mail($email_to, $subject, $email_message, $headers);
+       @mail($to, $subject, $email_message, $headers);
 
        if(empty($error_message)){
           $success_message = "<p>Thanks for your message! We will get back to you shortly</p>";
