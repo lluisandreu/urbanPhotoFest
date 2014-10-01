@@ -1,5 +1,5 @@
 <?php $page_title_fixed = "Urban Photo Fest"; ?>
-<?php $page_title = "Programme"; ?>
+<?php $page_title = "UPF12"; ?>
 <?php $meta_description = "Urban photography is an interdisciplinary field of visual practice concerned
         with the evocation and representation of urban spaces and the lives of those
         living, working and moving through such spaces"; ?>
@@ -12,9 +12,9 @@
 
         <div class="text">
 
-            <h1>Download or programme</h1>
+            <h1>Urban Photo Fest 2012</h1>
 
-            <p>Please click on the picture to download Urban Photo Fest 2014 programme in PDF</p>
+            <p>Please click on the picture to download Urban Photo Fest 2012 poster in PDF</p>
             <p>Pdf image here</p>
 
       </div>

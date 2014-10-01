@@ -1,6 +1,6 @@
-      <div id="menu">  
+      <div id="menu">
           <ul id="nav" class="drop">
-            <li><a href="index.php">Home</a></li>    
+            <li><a href="index.php">Home</a></li>
             <li><a href="#">About &#8744;</a>
             	<ul>
                     <li><a href="the-festival.php">The Festival</a></li>
@@ -20,22 +20,22 @@
             </li>
             <li><a href="#">Exhibitions &#8744;</a>
             	<ul>
-                    <li><a href="#">Habitus</a></li>
-                    <li><a href="#">Movement</a></li>
-                    <li><a href="#">Close to Nowhere</a></li>
+                    <li><a href="habitus.php">Habitus</a></li>
+                    <li><a href="movement.php">Movement</a></li>
+                    <li><a href="close-to-nowhere.php">Close to Nowhere</a></li>
                 </ul>
             </li>
 
             <li><a href="#">Programme &amp; Poster &#8744;</a>
                 <ul>
-                    <li><a href="#">Programme</a></li>
-                    <li><a href="#">Poster</a></li>
+                    <li><a href="programme.php">Programme</a></li>
+                    <li><a href="pster.php">Poster</a></li>
                 </ul>
             </li>
             <li><a href="gallery.php">Gallery &amp; Archives &#8744;</a>
             	<ul>
-                    <li><a href="#">UPF12</a></li>
-                    <li><a href="#">UPF13</a></li>
+                    <li><a href="upf12.php">UPF12</a></li>
+                    <li><a href="upf13.php">UPF13</a></li>
                 </ul>
             </li>
             <li><a href="contact.php">Contact</a></li>

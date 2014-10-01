@@ -1,23 +1,58 @@
 <?php
-       // from the form
-       $name = trim(strip_tags($_POST['name']));
-       $email = trim(strip_tags($_POST['email']));
-       $message = htmlentities($_POST['message']);
 
-       // set here
-       $subject = "Contact form submitted!";
-       $to = 'upflondon2012@gmail.com';
+if(isset($_POST['submit'])){
 
-       $body = <<<HTML
-$message
-HTML;
+       $to = "oliverobrador@gmail.com";
+       $subject = "New enquiry form submission from UPF website";
+       $error_message = "";
 
-       $headers = "From: $email\r\n";
-       $headers .= "Content-type: text/html\r\n";
+           // validation expected data exists
+       if(!isset($_POST['name']) || !isset($_POST['email']) || !isset($_POST['message'])) {
+        $error_message = 'We are sorry, but there appears to be a problem with the form you submitted.';
+       }
 
-       // send the email
-       mail($to, $subject, $body, $headers);
+       $name = $_POST['name'];
+       $email = $_POST['email'];
+       $message = $_POST['message'];
 
-       // redirect afterwords, if needed
-       header('Location: thanks.php');
+       $error_message = "";
+
+       $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
+       if(!preg_match($email_exp,$email)) {
+              $error_message .= 'The Email Address you entered does not appear to be valid.<br />';
+       }
+
+       $string_exp = "/^[A-Za-z .'-]+$/";
+       if(!preg_match($string_exp,$name)) {
+              $error_message .= 'The Name you entered does not appear to be valid.<br />';
+       }
+
+       if(strlen($error_message) > 0) {
+              print ($error_message);
+       }
+
+       $email_message = "";
+
+       $email_message .= "Name: ". $name."\n";
+
+       $email_message .= "Email: ". $email."\n";
+
+       $email_message .= "Message: ". $message."\n";
+
+       $headers = 'From: '.$email."\r\n".
+
+       'Reply-To: '.$email."\r\n" .
+
+       'X-Mailer: PHP/' . phpversion();
+
+       @mail($email_to, $subject, $email_message, $headers);
+
 ?>
+
+<h1>Thanks for your message</h1>
+
+<?php
+}
+?>
+
+
