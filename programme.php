@@ -14,8 +14,7 @@
 
             <h1>Download or programme</h1>
 
-            <p>Please click on the picture to download Urban Photo Fest 2014 programme in PDF</p>
-            <p>Pdf image here</p>
+            <p>Awaiting content...</p>
 
       </div>
 

@@ -61,7 +61,7 @@ Retrospeculations
 	    <div class="images-right">
 	    
 	    	<img src="img/4.3b-v2.jpg" alt="Retrospeculations" />
-			<div class="caption">Image © John Levett</div>
+			<div class="caption">Image &copy; John Levett</div>
 	    
 		</div>
 

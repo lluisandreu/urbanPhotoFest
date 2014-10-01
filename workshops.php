@@ -61,8 +61,14 @@ international photographer Peter Marlow"; ?>
 				
  		    <div class="images-right">
 		    
-		    	<img src="img/3.3b.jpg" alt="Karl Grupe">
-		    	<div class="caption">Image © Karl Grupe</div>
+		    	<img src="img/artwork/3iiia.jpg" alt="Untitled &copy;Rashinda Mangera">
+		    	<figcaption class="caption">Untitled, &copy; Rashinda Mangera</figcaption>
+
+		    	<img src="img/artwork/3iiia2.jpg" alt="South Wales, &copy;Tony Othen">
+		    	<figcaption class="caption">South Wales, &copy; Tony Othen</figcaption>
+
+		    	<img src="img/artwork/3iiia3.jpg" alt="Bandstand Swanage, &copy; Trevor Crone">
+		    	<figcaption class="caption">Bandstand Swanage, &copy; Trevor Crone</figcaption>
 		    	
 			</div>	 
 			
@@ -111,8 +117,8 @@ international photographer Peter Marlow"; ?>
         	
  		    <div class="images-right">
 		    
-		    	<img src="img/3.3c.jpg" alt="Ida Pap">
-		    	<div class="caption">Image © Ida Pap</div>
+		    	<img src="img/artwork/3iiib.jpg" alt="&copy; Mattias Malk">
+		    	<figcaption class="caption">&copy; Mattias Malk</figcaption>
 		    	
 			</div>	 
         	
@@ -160,8 +166,8 @@ international photographer Peter Marlow"; ?>
         	
  		    <div class="images-right">
  		    
-		    	<img src="img/3.3d.jpg" alt="Julio Etchart" />
-		    	<div class="caption">Image © Julio Etchart</div>
+		    	<img src="img/artwork/3iiic.png" alt="&copy; Beatriz Véliz Argueta">
+		    	<figcaption class="caption">&copy; Beatriz Véliz Argueta</figcaption>
 		    	
 			</div>	 
         	

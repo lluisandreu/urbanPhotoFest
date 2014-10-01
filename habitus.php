@@ -65,6 +65,14 @@ MA Photography and Urban Cultures students from Goldsmiths"; ?>
         </table>
     </div>
     <div class="images-right">
+            <img src="img/artwork/4ia.jpg" alt="&copy; Heather Agyepong">
+            <figcaption class="caption">&copy; Heather Agyepong</figcaption>
+
+            <img src="img/artwork/4ib.jpg" alt="&copy; Kamal Badhey">
+            <figcaption class="caption">&copy; Kamal Badhey</figcaption>
+
+            <img src="img/artwork/4ic.jpg" alt="&copy; Pablo Conejo">
+            <figcaption class="caption">&copy; Pablo Conejo</figcaption>
     </div>
 </div>
 <?php include_once 'includes/footer.php'; ?>

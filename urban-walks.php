@@ -73,9 +73,8 @@ international photographer Peter Marlow"; ?>
 
 		<div class="images-right">
 
-			<img src="img/3.4a-v2.jpg">
-
-			<div class="caption">Image &copy; Del Barrett ARPS</div>
+		    	<img src="img/artwork/3iva.jpg" alt="&copy; Juliet Kahne">
+		    	<figcaption class="caption">&copy; Juliet Kahne</figcaption>
 
 		</div>
 
@@ -141,10 +140,8 @@ international photographer Peter Marlow"; ?>
 		</div>
 		<div class="images-right">
 
-			<img src="img/3.4b.jpg" alt="Peter Coles">
-
-			<div class="caption">Image © Peter Coles</div>
-
+		    	<img src="img/artwork/3ivb.jpg" alt="&copy; Anthony Palmer">
+		    	<figcaption class="caption">&copy; Anthony Palmer</figcaption>
 		</div>
 	</div>
 
@@ -209,9 +206,8 @@ international photographer Peter Marlow"; ?>
 		</div>
 		<div class="images-right">
 
-			<img src="img/3.4c.jpg" alt="Yanni Eleftherakos, Soho, 2009">
-
-			<div class="caption">Image © Yanni Eleftherakos (Soho, 2009)</div>
+	    	<img src="img/artwork/3ivc.jpg" alt="&copy; Gill Golding">
+	    	<figcaption class="caption">&copy; Gill Golding</figcaption>
 
 		</div>
 	</div>

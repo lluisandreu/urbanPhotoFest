@@ -120,9 +120,19 @@ sometimes before our eyes, and sometimes almost imperceptibly over time"; ?>
             </tr>
         </table>
         <p><strong>Supported by:</strong></p>
-        <p>Logos here</p>
+            <div class="supported-logos">
+            <img src="img/logos/openvizor.jpg" alt="openvizor">
+            <img src="img/logos/photofusion_logo.jpg" alt="Photofusion">
+            <img src="img/logos/fujifilm.jpg" alt="Fujifilm">
+            <img src="img/logos/cucr-20.jpg" alt="Curc 20">
+            <img src="img/logos/upf-logo.jpg" alt="UPF">
+            <img src="img/logos/silverprint.jpg" alt="Silverprint">
+            <img src="img/logos/goldsmiths-logo.jpg" alt="Goldsmiths">
+            </div>
     </div>
     <div class="images-right">
+        <img src="img/artwork/4ii.jpg" alt="&copy; Kyler Zeleny">
+        <figcaption class="caption">&copy; Kyler Zeleny</figcaption>
     </div>
 </div>
 <?php include_once 'includes/footer.php'; ?>

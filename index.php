@@ -10,7 +10,7 @@
 
     <div id="main-home">
 
-        <img src="img/1.jpg" alt="urban photo fest">
+        <img src="img/home.jpg" alt="urban photo fest">
 
         <div class="credit">&copy; UrbanPhotoFest</div>
 

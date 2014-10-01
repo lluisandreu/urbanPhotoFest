@@ -6,7 +6,7 @@
 <?php include_once 'includes/menu.php'; ?>
 <?php include_once 'includes/header-end.php'; ?>
 <div id="main" class="clearfix">
-    <div class="text">
+    <div class="text-fullwidth">
         <h2>The Festival</h2>
 
         <p>Urban Photo Fest has evolved through a number of conversations, research
@@ -51,6 +51,5 @@
 
         <p><strong>Paul Halliday</strong><br>Creative Director, Urban Photo Fest </p>
     </div>
-    <div class="images-right"></div>
 </div>
 <?php include_once 'includes/footer.php'; ?>

@@ -7,7 +7,7 @@ if(isset($_POST['submit'])){
 
            // validation expected data exists
        if(!isset($_POST['name']) || !isset($_POST['email']) || !isset($_POST['message'])) {
-        $error_message = 'We are sorry, but there appears to be a problem with the form you submitted.';
+        $error_message = '<p>We are sorry, but there appears to be a problem with the form you submitted.</p>';
        }
 
        $name = $_POST['name'];
@@ -18,12 +18,12 @@ if(isset($_POST['submit'])){
 
        $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
        if(!preg_match($email_exp,$email)) {
-              $error_message .= 'The Email Address you entered does not appear to be valid.<br />';
+              $error_message .= '<p>The Email Address you entered does not appear to be valid.</p>';
        }
 
        $string_exp = "/^[A-Za-z .'-]+$/";
        if(!preg_match($string_exp,$name)) {
-              $error_message .= 'The Name you entered does not appear to be valid.<br />';
+              $error_message .= '<p>The Name you entered does not appear to be valid. Please do not enter numbers and symbols</p>';
        }
 
        $email_message = "";
@@ -41,6 +41,10 @@ if(isset($_POST['submit'])){
        'X-Mailer: PHP/' . phpversion();
 
        @mail($email_to, $subject, $email_message, $headers);
+
+       if(empty($error_message)){
+          $success_message = "<p>Thanks for your message! We will get back to you shortly</p>";
+       }
 }
 
 ?>
@@ -62,25 +66,26 @@ if(isset($_POST['submit'])){
 
             <h1>Contact</h1>
 
-              <p>For more information or any other issue please use our contact form:</p>
+            <p>For more information or any other issue please use our contact form:</p>
 
-              <?php if($error_message){print $error_message;} ?>
+          <?php if(isset($error_message) && !empty($error_message)){print '<div class="label error">' . $error_message . '</div>';} ?>
+          <?php if(isset($success_message)){print '<div class="label success">' . $success_message . '</div>';} ?>
 
-              <form action="contact.php" method="post">
+          <form action="contact.php" method="post">
 
 				  <div class="form-field">
 					  <label for="name">Name:</label>
-					  <input type="text" name="name" id="name" required>
+					  <input type="text" name="name" id="name" value="<?php echo (isset($_POST['name']) ? htmlspecialchars($_POST['name']) : ''); ?>" required>
 				  </div>
 
 				  <div class="form-field">
 					  <label for="Email">Email:</label>
-					  <input type="text" name="email" id="email" required>
+					  <input type="email" name="email" id="email" value ="<?php echo (isset($_POST['email']) ? htmlspecialchars($_POST['email']) : ''); ?>" required>
 				  </div>
 
 				  <div class="form-field">
 					  <label for="Message">Message:</label><br />
-					  <textarea name="message" rows="20" cols="20" id="message"></textarea>
+					  <textarea name="message" rows="20" cols="20" id="message" required><?php echo (isset($_POST['message']) ? htmlspecialchars($_POST['message']) : ''); ?></textarea>
 					  <input type="submit" name="submit" value="Submit" />
 				  </div>
 

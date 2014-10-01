@@ -60,6 +60,10 @@
     	</div>
 
 	    <div class="images-right">
+	    	<img src="img/artwork/2iiia.jpg" alt="Anne Zeitz and David Boureau" >
+	    	<figcaption class="caption">Retention (2012) &copy;Anne Zeitz and David Boureau</figcaption>
+	    	<img src="img/artwork/2iiib.jpg" alt="Anne Zeitz and David Boureau" >
+	    	<fidcaption class="caption">Retention (2012) &copy;Anne Zeitz and David Boureau</figcaption>
 		</div>
 
 	</div>

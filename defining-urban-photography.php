@@ -31,7 +31,9 @@
     	</div>
     
 	    <div class="images-right">
-	    
+	    	
+	    	<img src="img/artwork/2iv.jpg" alt="Image from series Crossing Over &copy;Yanina Shevchenko" >
+	    	<figcaption class="caption">Image from series Crossing Over &copy;Yanina Shevchenko</figcaption>
 	    
 		</div>
 

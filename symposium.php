@@ -75,9 +75,9 @@
 				
 			<div class="images-right">
 		    	
-		    	<img src="img/3.1a.jpg" alt="3.1a" width="" height="" />
+		    	<img src="img/artwork/3i.jpg" alt="&copy;Paul Halliday from the series Close to Nowhere (forthcoming)" width="" height="" />
 		    	
-		    	<div class="caption" style="font-style:normal;">Peter Fraser, <em>Untitled, 2013 A City in the Mind</em>, courtesy of the artist and Brancolini Grimaldi Gallery</div>
+		    	<figcaption class="caption">&copy; Paul Halliday from the series Close to Nowhere (forthcoming)</figcaption>
 		    
 			</div>
 		

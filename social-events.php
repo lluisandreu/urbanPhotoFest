@@ -9,7 +9,7 @@ contemporary city"; ?>
 <?php include_once 'includes/header-end.php'; ?>
 <div id="main" class="clearfix">
 	<div class="images-text-group">
-		<div class="text">
+		<div class="text-fullwidth">
 			<h1>Social Events</h1>
 
 			<h3>Urban Photo Fest Opening Reception</h3>
@@ -53,7 +53,7 @@ contemporary city"; ?>
 		</div>
 	</div>
 	<div class="images-text-group">
-		<div class="text">
+		<div class="text-fullwidth">
 			<h3>Urban Photo Fest Closing Reception</h3>
 
 			<p>The closing event of Urban Photo Fest will be hosted by The Greenwich

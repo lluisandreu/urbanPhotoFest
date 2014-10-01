@@ -44,9 +44,21 @@
             </tr>
         </table>
         <p><strong>Supported by:</strong></p>
-        <p>Logos here</p>
+            <div class="supported-logos">
+            <img src="img/logos/goldsmiths-logo.jpg" alt="Goldsmiths">
+            <img src="img/logos/cucr-20.jpg" alt="Curc 20">
+            <img src="img/logos/the-greenwhich-gallery.jpg" alt="The Greenwhich Gallery">
+            <img src="img/logos/openvizor.jpg" alt="openvizor">
+            <img src="img/logos/iupss-logo.jpg" alt="IUPSS"> 
+            <img src="img/logos/urban-photographers-logo.jpg" alt="Urban Photographers"> 
+            <img src="img/logos/upf-logo.jpg" alt="UPF">
+
+            
+            </div>
     </div>
     <div class="images-right">
+        <img src="img/home.jpg" alt="&copy; Paul Halliday from the series Close to Nowhere">
+        <figcaption class="caption">&copy; Paul Halliday from the series Close to Nowhere</figcaption>
     </div>
 </div>
 <?php include_once 'includes/footer.php'; ?>

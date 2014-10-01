@@ -10,14 +10,28 @@
 
     <div id="main" class="clearfix">
 
-        <div class="text">
+    	<div class="text">
 
             <h1>Urban Photo Fest 2013</h1>
 
-            <p>Please click on the picture to download Urban Photo Fest 2013 poster in PDF</p>
-            <p>Pdf image here</p>
+            <p>This year <em>(last year 2013)</em>, we are offering an expanded programme including a
+photographic competition in association with the Royal Photographic Society
+(RPS), a masterclass with international photographic artist Rut Blees
+Luxemburg, exhibitions with Photofusion, London Independent Photography
+and RPS, workshops, walks, interventions, and social events. Urban Photo
+Fest 2013 will focus on the theme of ‘urban materialities’, which is quite an
+ambiguous concept, and throughout the symposia and other festival events,
+we hope that a number of lively and stimulating encounters will take place
+around this topic.</p>
 
-      </div>
+
+			<p><a href="docs/6ii.pdf" target="_blank"><strong>Download the UPF 2013 Progamme (pdf)</strong></a></p>
+
+      	</div>
+	    <div class="images-right">
+	        <a href="docs/6ii.pdf" target="_blank"><img src="img/upf2013.jpg" alt="UPF 2012 Programme"></a>
+	        <figcaption class="caption">UPF 2013 Programme</figcaption>
+	    </div>
 
   </div>
 

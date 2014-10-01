@@ -14,8 +14,7 @@
 
             <h1>Download the poster</h1>
 
-            <p>Please click on the picture to download Urban Photo Fest 2014 poster in PDF</p>
-            <p>Pdf image here</p>
+            <p>Awaiting content...</p>
 
       </div>
 

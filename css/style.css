@@ -210,6 +210,15 @@ td
 		width:35em;
 		margin:0 0 0 2em;
 	}
+
+.text-fullwidth {
+	width: auto;
+	padding: 20px;
+}
+
+.text-fullwidth p {
+	width: 100%;
+}
 	
 
 .images-text-group
@@ -260,6 +269,19 @@ td
 		margin:10em 13em;
 		}
 		
+.label {
+	padding: 10px; 
+}
+
+.label.error {
+	color: red;
+	background-color: #ffc6c6;
+}
+
+.label.success {
+	color: #00c921;
+	background-color: #d3ffda;
+}
 	
 
 .missing
@@ -320,6 +342,18 @@ ul.para li
 		opacity:1;
 		-webkit-filter: grayscale(0%); 
 		}
+
+.supported-logos {
+	padding: 10px; 
+	border: 1px solid #ccc;
+}
+
+.supported-logos img {
+	width: 6em;
+	opacity: 0.8;
+	margin: 5px;
+	vertical-align: top;
+}
 
 /* Clearfix */
 

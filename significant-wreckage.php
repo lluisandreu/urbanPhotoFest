@@ -57,7 +57,7 @@ Significant Wreckage
 	    <div class="images-right">
 	    
 	    	<img src="img/4.4a-v2.jpg" alt="Significant Wreckage" width="" height="" />
-			<div class="caption">Image © Nick Scamell</div>
+			<div class="caption">Image &copy; Nick Scamell</div>
 		
 		</div>
 

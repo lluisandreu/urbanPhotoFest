@@ -58,11 +58,11 @@ The Surface of Self
 	    <div class="images-right">
 	    
 	        <img src="img/4.1a.jpg" alt="4.1a" width="" height="" />
-	    	<div class="caption">© Laura Cuch</div>
+	    	<div class="caption">&copy; Laura Cuch</div>
 			<img src="img/4.1b.jpg" alt="4.1b" width="" height="" />
-	    	<div class="caption">© Orly Zailer</div>
+	    	<div class="caption">&copy; Orly Zailer</div>
 			<img src="img/4.1c-v2.jpg" alt="4.1c" width="" height="" />
-	    	<div class="caption">© Anastassios Kavassis</div>
+	    	<div class="caption">&copy; Anastassios Kavassis</div>
 	    
 		</div>
 

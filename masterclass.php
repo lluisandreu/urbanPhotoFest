@@ -65,9 +65,9 @@ international photographer Peter Marlow"; ?>
     
 	    <div class="images-right">
 	    
-	    	<img src="img/rut-blees-luxemburg-master-class.jpg" alt="Master-class with Rut Blees Luxemburg">
+	    	<img src="img/artwork/3ii.jpg" alt="&copy; Peter Marlow">
 	    	
-	    	<div class="caption">Rut Blees Luxemburg, Narrow Stage, 1998</div>
+	    	<figcaption class="caption">&copy; Peter Marlow</figcaption>
 	    
 		</div>
 
