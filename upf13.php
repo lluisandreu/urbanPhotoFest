@@ -30,7 +30,7 @@ around this topic.</p>
       	</div>
 	    <div class="images-right">
 	        <a href="docs/6ii.pdf" target="_blank"><img src="img/upf2013.jpg" alt="UPF 2012 Programme"></a>
-	        <figcaption class="caption">UPF 2013 Programme</figcaption>
+	        <div class="caption">UPF 2013 Programme</div>
 	    </div>
 
   </div>

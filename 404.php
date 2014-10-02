@@ -1,28 +1,20 @@
-<?php include 'head-begin.php'; ?>
+<?php $page_title_fixed = "Urban Photo Fest"; ?>
+<?php $page_title = "404 Not Found"; ?>
+<?php $meta_description = "The page you were looking for doesn't exist"; ?>
+<?php include_once 'includes/head.php'; ?>
+<?php include_once 'includes/header-start.php'; ?>
+<?php include_once 'includes/menu.php'; ?>
+<?php include_once 'includes/header-end.php'; ?>
 
-To Err is Human
+    <div id="main" class="clearfix">
 
-<?php include 'head-end.php'; ?>
+        <div class="text-fullwidth">
 
-<body>
+            <h1>Ops! We couldn't find the page</h1>
+            <p>The page you were looking for doesn't exist, please go back <a href="index.php"><strong>home</strong></a></p>
 
-<?php include 'header-start.php'; ?>
-<?php include 'menu.php'; ?>
-<?php include 'header-end.php'; ?>
-
-    <div id="main">
-  
-        <div class="text">
-        
-            <h2>Sorry, page not found</h2>
-            
 	   	</div>
-    
-	    <div class="images-right">
-		
-	    
-		</div>
 
 	</div>
 
-<?php include 'footer.php'; ?>
+<?php include_once 'includes/footer.php'; ?>

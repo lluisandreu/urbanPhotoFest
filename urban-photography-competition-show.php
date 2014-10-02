@@ -11,14 +11,14 @@ Competition Show
 <?php include 'header-end.php'; ?>
 
     <div id="main">
-  
+
         <div class="text">
-        
+
             <h2>RPS - UPF Competition Show</h2>
-            
+
             <br>Exhibition of the finalists’ entries for the Urban Photo Fest competition “Materialities”.
-            
-			<table border="0" cellpadding="24">
+
+			<table  >
 			  <tr>
 			    <td class="table-bold">Dates</td>
 			    <td>07 – 30 October 2013</td>
@@ -48,14 +48,14 @@ Competition Show
 			    <td><a href="http://www.rps.org/region/London/events/view/3193" target="_blank">www.rps.org/region/London/events/view/3193</a></td>
 			  </tr>
 			</table>
-			
-			
-			
+
+
+
     	</div>
-    
+
 	    <div class="images-right">
-	    
-	    
+
+
 		</div>
 
 	</div>

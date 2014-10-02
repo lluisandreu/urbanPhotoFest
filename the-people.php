@@ -8,7 +8,7 @@
 <div id="main" class="clearfix">
 	<div class="text">
 		<h1>The Festival Team</h1>
-		<table border="0" cellpadding="24">
+		<table  >
 			<tr>
 				<td class="table-bold">Paul Halliday</td>
 				<td>Creative Director</td>

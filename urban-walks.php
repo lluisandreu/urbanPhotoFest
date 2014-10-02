@@ -38,7 +38,7 @@ international photographer Peter Marlow"; ?>
 			<p><strong>Needed:</strong> A camera and comfortable shoes for walking. </p>
 
 
-			<table border="0" cellpadding="24">
+			<table  >
 				<tr>
 					<td class="table-bold">Date</td>
 					<td>26 October 2014</td>
@@ -74,7 +74,7 @@ international photographer Peter Marlow"; ?>
 		<div class="images-right">
 
 		    	<img src="img/artwork/3iva.jpg" alt="&copy; Juliet Kahne">
-		    	<figcaption class="caption">&copy; Juliet Kahne</figcaption>
+		    	<div class="caption">&copy; Juliet Kahne</div>
 
 		</div>
 
@@ -106,7 +106,7 @@ international photographer Peter Marlow"; ?>
 			communities that now border the Park. </p>
 			<p><strong>Needed:</strong> A camera and comfortable shoes for walking.</p>
 
-			<table border="0" cellpadding="24">
+			<table  >
 				<tr>
 					<td class="table-bold">Date</td>
 					<td>26 October 2014</td>
@@ -141,7 +141,7 @@ international photographer Peter Marlow"; ?>
 		<div class="images-right">
 
 		    	<img src="img/artwork/3ivb.jpg" alt="&copy; Anthony Palmer">
-		    	<figcaption class="caption">&copy; Anthony Palmer</figcaption>
+		    	<div class="caption">&copy; Anthony Palmer</div>
 		</div>
 	</div>
 
@@ -172,7 +172,7 @@ international photographer Peter Marlow"; ?>
 			sea or in a local cafe. </p>
 			<p><strong>What you will need:</strong> Comfortable shoes and any type of camera (yes, a phone camera will be fine!) – and if you would prefer, a packed lunch</p>
 
-			<table border="0" cellpadding="24">
+			<table  >
 				<tr>
 					<td class="table-bold">Date</td>
 					<td>26 October 2014</td>
@@ -207,7 +207,7 @@ international photographer Peter Marlow"; ?>
 		<div class="images-right">
 
 	    	<img src="img/artwork/3ivc.jpg" alt="&copy; Gill Golding">
-	    	<figcaption class="caption">&copy; Gill Golding</figcaption>
+	    	<div class="caption">&copy; Gill Golding</div>
 
 		</div>
 	</div>

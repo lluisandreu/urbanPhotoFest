@@ -77,12 +77,12 @@ if(isset($_POST['submit'])){
 				  </div>
 
 				  <div class="form-field">
-					  <label for="Email">Email:</label>
+					  <label for="email">Email:</label>
 					  <input type="email" name="email" id="email" value ="<?php echo (isset($_POST['email']) ? htmlspecialchars($_POST['email']) : ''); ?>" required>
 				  </div>
 
 				  <div class="form-field">
-					  <label for="Message">Message:</label><br />
+					  <label for="message">Message:</label><br />
 					  <textarea name="message" rows="20" cols="20" id="message" required><?php echo (isset($_POST['message']) ? htmlspecialchars($_POST['message']) : ''); ?></textarea>
 					  <input type="submit" name="submit" value="Submit" />
 				  </div>

@@ -23,7 +23,7 @@
       	</div>
 	    <div class="images-right">
 	        <a href="docs/6i.pdf" target="_blank"><img src="img/upf2012.jpg" alt="UPF 2012 Programme"></a>
-	        <figcaption class="caption">UPF 2012 Programme</figcaption>
+	        <div class="caption">UPF 2012 Programme</div>
 	    </div>
 
   </div>

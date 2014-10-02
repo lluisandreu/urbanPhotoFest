@@ -24,7 +24,7 @@ contemporary city"; ?>
 			double-decker bus to take those attending the Tate conference to the Habitus
 			exhibition at the Menier Gallery at [pick-up time pending from Stefano or
 			Kamal] </p>
-			<table border="0" cellpadding="24">
+			<table  >
 				<tr>
 					<td class="table-bold">Date</td>
 					<td>24 October 2014</td>
@@ -67,7 +67,7 @@ contemporary city"; ?>
 			double-decker bus to take those attending the Tate conference to the Habitus
 			exhibition at the Menier Gallery at [pick-up time pending from Stefano or
 			Kamal] </p>
-			<table border="0" cellpadding="24">
+			<table  >
 				<tr>
 					<td class="table-bold">Date</td>
 					<td>28 October 2014</td>

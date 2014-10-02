@@ -31,7 +31,7 @@ sometimes before our eyes, and sometimes almost imperceptibly over time"; ?>
         University of London and Tate Britain. </p>
         <p><strong>Curated by:</strong> Yanina Shevchenko and Fraser Miles</p>
         <h3>Artists</h3>
-        <table border="0" cellpadding="24">
+        <table  >
             <tr>
                 <td>Anastassios Kavassis </td>
                 <td>Beatriz Veliz Argueta</td>
@@ -89,7 +89,7 @@ sometimes before our eyes, and sometimes almost imperceptibly over time"; ?>
                 <td>Yanni Eleftherakos</td>
             </tr>
         </table>
-        <table border="0" cellpadding="24">
+        <table  >
             <tr>
                 <td class="table-bold">Dates</td>
                 <td>27 October 2014 – 16 November 2014</td>
@@ -132,7 +132,7 @@ sometimes before our eyes, and sometimes almost imperceptibly over time"; ?>
     </div>
     <div class="images-right">
         <img src="img/artwork/4ii.jpg" alt="&copy; Kyler Zeleny">
-        <figcaption class="caption">&copy; Kyler Zeleny</figcaption>
+        <div class="caption">&copy; Kyler Zeleny</div>
     </div>
 </div>
 <?php include_once 'includes/footer.php'; ?>

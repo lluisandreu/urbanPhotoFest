@@ -33,7 +33,7 @@ MA Photography and Urban Cultures students from Goldsmiths"; ?>
         Christopher Haney, Sally Hart, Yinae Deokwoo Hwang, Jade King,
         Mattias Malk, Pablo Conejo Pascual, Christina Paugger, Yuanfang Ren,
         Silvia Andrademarin, Hui Simon Song </p>
-        <table border="0" cellpadding="24">
+        <table  >
             <tr>
                 <td class="table-bold">Dates</td>
                 <td>20-25 October 2014</td>
@@ -66,13 +66,13 @@ MA Photography and Urban Cultures students from Goldsmiths"; ?>
     </div>
     <div class="images-right">
             <img src="img/artwork/4ia.jpg" alt="&copy; Heather Agyepong">
-            <figcaption class="caption">&copy; Heather Agyepong</figcaption>
+            <div class="caption">&copy; Heather Agyepong</div>
 
             <img src="img/artwork/4ib.jpg" alt="&copy; Kamal Badhey">
-            <figcaption class="caption">&copy; Kamal Badhey</figcaption>
+            <div class="caption">&copy; Kamal Badhey</div>
 
             <img src="img/artwork/4ic.jpg" alt="&copy; Pablo Conejo">
-            <figcaption class="caption">&copy; Pablo Conejo</figcaption>
+            <div class="caption">&copy; Pablo Conejo</div>
     </div>
 </div>
 <?php include_once 'includes/footer.php'; ?>
