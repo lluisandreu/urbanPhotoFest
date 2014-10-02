@@ -14,15 +14,14 @@
 
             <h1>Urban Photo Fest 2013</h1>
 
-            <p>This year <em>(last year 2013)</em>, we are offering an expanded programme including a
-photographic competition in association with the Royal Photographic Society
-(RPS), a masterclass with international photographic artist Rut Blees
-Luxemburg, exhibitions with Photofusion, London Independent Photography
-and RPS, workshops, walks, interventions, and social events. Urban Photo
-Fest 2013 will focus on the theme of ‘urban materialities’, which is quite an
-ambiguous concept, and throughout the symposia and other festival events,
-we hope that a number of lively and stimulating encounters will take place
-around this topic.</p>
+            <p>In 2013 we offered an expanded programme that included a photographic
+              competition in association with the Royal Photographic Society (RPS), a
+              masterclass with international photographic artist Rut Blees Luxemburg,
+              exhibitions with Photofusion, London Independent Photography and RPS,
+              workshops, walks, interventions, and social events. Urban Photo Fest 2013
+              focused on the theme of ‘urban materialities’, which is quite an ambiguous
+              concept, and throughout the symposia and other festival events, a number of
+              lively and stimulating encounters took place around this topic.</p>
 
 
 			<p><a href="docs/6ii.pdf" target="_blank"><strong>Download the UPF 2013 Progamme (pdf)</strong></a></p>

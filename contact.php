@@ -1,7 +1,7 @@
 <?php
 if(isset($_POST['submit'])){
 
-       $to = "oliverobrador@gmail.com";
+       $to = "upflondon2012@gmail.com";
        $subject = "New enquiry from UPF website";
        $error_message = "";
 

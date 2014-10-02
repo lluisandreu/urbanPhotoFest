@@ -14,7 +14,7 @@
 
 			<p><strong>Anne Zeitz</strong> is a researcher and artist working with photography, video and sound media.</p>
 
-			<p><strong>About</strong><em>Retention</em></p>
+			<p><strong>About</strong><em> Retention</em></p>
 
 			<p>Retention, her last work made with David Boureau, deals with the
 				“soundscape” of the Mesnil Amelot 2 detention centre for illegal immigrants
@@ -47,14 +47,14 @@
 				organizing the project <em>Movement-Observation-Control</em> (2007/2008) for the
 				Goethe-Institut Paris and collaborated on the exhibition and conference
 				<em>Armed Response</em> (2008) at the Goethe-Institut Johannesburg. She is a former
-				member of the Observatoire des nouveaux médias (Paris 8/Ensad) and of the
-				research project <em>Média Médiums</em> (Paris 8/Beaux Arts de Cergy Pontoise,
-				2013/2014). She is author of numerous photographic series, video
+				member of the <em>Observatoire des nouveaux médias</em> (Paris 8/Ensad) and of the
+				research project <em>Média Médiums</em> (University Paris 8, ENSAPC, EnsadLAB, Archives Nationales, 2013/2014).
+				She is author of numerous photographic series, video
 				installations and sound works dealing with issues relating to surveillance, the
 				privatisation of security, the urban aesthetics of Euro-Disney and migration. </p>
 
 			<p>Her most recent research concentrates on the work of the American artist
-				Max Neuhaus with the publication of <em>De Max-Feed a Radio Net</em> (2014), part of
+				Max Neuhaus with the publication of <em>De Max-Feed à Radio Net</em> (2014), part of
 				the <em>Média Médiums</em> book series. </p>
 
     	</div>

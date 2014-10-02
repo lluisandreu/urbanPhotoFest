@@ -12,11 +12,16 @@
 
         <div class="text">
 
-            <h1>Download Urban Photo Fest 2014 poster</h1>
+            <h1>Urban Photo Fest 2014 poster</h1>
 
-            <p>Awaiting content...</p>
+            <p><a href="docs/5ii.pdf" target="_blank">Download poster</a></p>
 
       </div>
+
+        <div class="images-right">
+            <a href="docs/5ii.pdf" target="_blank"><img src="img/poster.jpg" alt="UPF 2014 Poster"></a>
+            <div class="caption">UPF 2014 Poster</div>
+        </div>
 
   </div>
 

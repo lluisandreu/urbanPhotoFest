@@ -100,7 +100,7 @@ sometimes before our eyes, and sometimes almost imperceptibly over time"; ?>
             </tr>
             <tr>
                 <td class="table-bold">Private View</td>
-                <td>27 October 2014 | 18:00 – 21:00</td>
+                <td>27 October 2014 | 18:30 – 21:00</td>
             </tr>
             <tr>
                 <td class="table-bold">Venue</td>
@@ -116,7 +116,9 @@ sometimes before our eyes, and sometimes almost imperceptibly over time"; ?>
             </tr>
             <tr>
                 <td class="table-bold">Info and Booking</td>
-                <td><a href="http://www.silverprint.co.uk/category/gallery-2/" target="_blank">silverprint.co.uk</a></td>
+                <td>
+                <a href="http://urbanphotographers.org">urbanphotographers.org</a>
+                <a href="http://www.silverprint.co.uk/category/gallery-2/" target="_blank">silverprint.co.uk</a></td>
             </tr>
         </table>
         <p><strong>Supported by:</strong></p>
@@ -124,10 +126,11 @@ sometimes before our eyes, and sometimes almost imperceptibly over time"; ?>
             <img src="img/logos/openvizor.jpg" alt="openvizor">
             <img src="img/logos/photofusion_logo.jpg" alt="Photofusion">
             <img src="img/logos/fujifilm.jpg" alt="Fujifilm">
-            <img src="img/logos/cucr-20.jpg" alt="Curc 20">
+            <img src="img/logos/goldsmiths-logo.jpg" alt="Goldsmiths">
             <img src="img/logos/upf-logo.jpg" alt="UPF">
             <img src="img/logos/silverprint.jpg" alt="Silverprint">
-            <img src="img/logos/goldsmiths-logo.jpg" alt="Goldsmiths">
+            <img src="img/logos/cucr-20.jpg" alt="Curc 20">
+
             </div>
     </div>
     <div class="images-right">

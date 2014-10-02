@@ -11,7 +11,7 @@
             </li>
             <li><a href="symposium.php">Events &#8744;</a>
             	<ul>
-                    <li><a href="symposium.php">Symposium</a></li>
+                    <li><a href="symposium.php">Conference</a></li>
                     <li><a href="masterclass.php">Masterclass</a></li>
                     <li><a href="workshops.php">Workshops &amp; Seminars</a></li>
                     <li><a href="urban-walks.php">Urban Walks</a></li>

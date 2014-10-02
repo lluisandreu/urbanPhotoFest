@@ -48,7 +48,7 @@ MA Photography and Urban Cultures students from Goldsmiths"; ?>
             </tr>
             <tr>
                 <td class="table-bold">Venue</td>
-                <td>Menier Galley, 51 Southwark St, SE1 1RU</td>
+                <td>Menier Galley, 51 Southwark Street, SE1 1RU</td>
             </tr>
             <tr>
                 <td class="table-bold">Nearest Tube</td>

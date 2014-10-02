@@ -49,7 +49,7 @@ international photographer Peter Marlow"; ?>
 				  </tr>
 				  <tr>
 				    <td class="table-bold">Cost</td>
-				    <td>Free</td>
+				    <td>Cost Free, but only 30 places available</td>
 				  </tr>
 				  <tr>
 				    <td class="table-bold">Info and booking</td>

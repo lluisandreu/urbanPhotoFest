@@ -22,8 +22,7 @@ contemporary city"; ?>
 
 			<p>Please note that on Saturday 25 October, we are providing a Routemaster
 			double-decker bus to take those attending the Tate conference to the Habitus
-			exhibition at the Menier Gallery at [pick-up time pending from Stefano or
-			Kamal] </p>
+			exhibition at the Menier Gallery at the Menier Gallery. </p>
 			<table  >
 				<tr>
 					<td class="table-bold">Date</td>

@@ -15,7 +15,7 @@ international photographer Peter Marlow"; ?>
 
 			<h3>Cruising Hackney: Capturing the culture of London’s gentrification</h3>
 
-			<p>The Tutor: Juliet Kahne is a writer, researcher and photographer from Los Angeles. She
+			<p><strong>The Tutor:</strong> Juliet Kahne is a writer, researcher and photographer from Los Angeles. She
 			recently obtained her PhD in urban/cultural geography from King’s College London, and most
 			of her past work has focused on gentrification and the changing cultural landscape of urban
 			neighbourhoods and city centres. With an interest in all aspects of urban culture – from
@@ -24,7 +24,7 @@ international photographer Peter Marlow"; ?>
 			and her photography is an attempt to reflect an intersection between the urban, the political,
 			and the comical.</p>
 
-			<p>The Walk: From the bustling shopping-scapes of Hoxton, to the middle-class colonization
+			<p><strong>The Walk:</strong> From the bustling shopping-scapes of Hoxton, to the middle-class colonization
 			taking place between Dalston and Stoke Newington, this walk will observe, investigate, and
 			question varying stages of gentrification by identifying visual markers of the process in
 			Hackney’s urban landscape. Within this street photographer’s paradise, various stages of
@@ -86,11 +86,11 @@ international photographer Peter Marlow"; ?>
 		<div class="text">
 			<h3>London’s Olympic Park</h3>
 
-			<p>The Tutor: Anthony Palmer has been photographing the Olympic Park landscape for six
+			<p><strong>The Tutor:</strong> Anthony Palmer has been photographing the Olympic Park landscape for six
 			years and was previously the Filming and Photography Manager for the Olympic Delivery
 			Authority. </p>
 
-			<p>The Walk: London’s Queen Elizabeth Olympic Park re-opened after the 2012 Games in two
+			<p><strong>The Walk:</strong> London’s Queen Elizabeth Olympic Park re-opened after the 2012 Games in two
 			stages, firstly July 2013 and then April 2014, and is now a large public park similar in size to
 			Hyde Park. For those unfamiliar with the changes, this Olympic Park walk is an opportunity to
 			see how the Park is re-establishing itself, how it is being used and how it connects up to
@@ -150,13 +150,13 @@ international photographer Peter Marlow"; ?>
 		<div class="text">
 			<h3>Brighton</h3>
 
-			<p>The Tutor: Gill Golding is an urban landscape photographer whose method of engaging with
+			<p><strong>The Tutor:</strong> Gill Golding is an urban landscape photographer whose method of engaging with
 			the urban environment is to walk. She has lived in Brighton &amp; Hove for 20 years and has
 			enjoyed discovering several histories of the city, and through her walking, has observed and
 			experienced changes to numerous neighbourhoods. Gill is currently pursuing an MA in
 			Photography and Urban Cultures at Goldsmiths University.</p>
 
-			<p>The Walk: When we think of Brighton, we tend to think about the sea, the pier, the Pavilion
+			<p><strong>The Walk:</strong> When we think of Brighton, we tend to think about the sea, the pier, the Pavilion
 			and the Regency architecture, but there is another side of Brighton to explore also. Brighton
 			&amp; Hove became a city in 2000, and beneath the facades of the different neighbourhoods are
 			stories of poverty, wealth, loss of industry, gentrification and urban renewal. From the
