@@ -7,14 +7,10 @@ international photographer Peter Marlow"; ?>
 <?php include_once 'includes/menu.php'; ?>
 <?php include_once 'includes/header-end.php'; ?>
 <div id="main" class="clearfix">
-
 	<div class="images-text-group">
-
 		<div class="text">
 			<h1>Urban Walks</h1>
-
 			<h3>Cruising Hackney: Capturing the culture of London’s gentrification</h3>
-
 			<p><strong>The Tutor:</strong> Juliet Kahne is a writer, researcher and photographer from Los Angeles. She
 			recently obtained her PhD in urban/cultural geography from King’s College London, and most
 			of her past work has focused on gentrification and the changing cultural landscape of urban
@@ -23,7 +19,6 @@ international photographer Peter Marlow"; ?>
 			nooks and crannies of urban living to a wider audience through an array of visual mediums,
 			and her photography is an attempt to reflect an intersection between the urban, the political,
 			and the comical.</p>
-
 			<p><strong>The Walk:</strong> From the bustling shopping-scapes of Hoxton, to the middle-class colonization
 			taking place between Dalston and Stoke Newington, this walk will observe, investigate, and
 			question varying stages of gentrification by identifying visual markers of the process in
@@ -36,8 +31,6 @@ international photographer Peter Marlow"; ?>
 			changing throughout the areas we will explore, and there will be endless opportunities to
 			capture this process through the lens. </p>
 			<p><strong>Needed:</strong> A camera and comfortable shoes for walking. </p>
-
-
 			<table  >
 				<tr>
 					<td class="table-bold">Date</td>
@@ -68,34 +61,23 @@ international photographer Peter Marlow"; ?>
 					<td>Please contact <a href="mailto:b.v.argueta@gold.ac.uk"><strong>b.v.argueta@gold.ac.uk</strong></a></td>
 				</tr>
 			</table>
-
 		</div>
-
 		<div class="images-right">
-
-		    	<img src="img/artwork/3iva.jpg" alt="&copy; Juliet Kahne">
-		    	<div class="caption">&copy; Juliet Kahne</div>
-
+			<img src="img/artwork/3iva.jpg" alt="&copy; Juliet Kahne">
+			<div class="caption">&copy; Juliet Kahne</div>
 		</div>
-
 	</div>
-
-
 	<div class="images-text-group">
-
 		<div class="text">
 			<h3>London’s Olympic Park</h3>
-
 			<p><strong>The Tutor:</strong> Anthony Palmer has been photographing the Olympic Park landscape for six
 			years and was previously the Filming and Photography Manager for the Olympic Delivery
 			Authority. </p>
-
 			<p><strong>The Walk:</strong> London’s Queen Elizabeth Olympic Park re-opened after the 2012 Games in two
 			stages, firstly July 2013 and then April 2014, and is now a large public park similar in size to
 			Hyde Park. For those unfamiliar with the changes, this Olympic Park walk is an opportunity to
 			see how the Park is re-establishing itself, how it is being used and how it connects up to
 			places that have remained peripheral to it for the last six years of construction works. </p>
-
 			<p>Within the Park we will be able to see the legacy venues of the Velo Park and Aquatics Centre
 			that are now in use and how the Olympic Village is becoming the new residential
 			neighborhood of East Village. We will look at the different ways in which the landscaping has
@@ -105,7 +87,6 @@ international photographer Peter Marlow"; ?>
 			regenerations as well as discuss how residential redevelopment is affecting existing
 			communities that now border the Park. </p>
 			<p><strong>Needed:</strong> A camera and comfortable shoes for walking.</p>
-
 			<table  >
 				<tr>
 					<td class="table-bold">Date</td>
@@ -136,26 +117,20 @@ international photographer Peter Marlow"; ?>
 					<td>Please contact <a href="b.v.argueta@gold.ac.uk"><strong>b.v.argueta@gold.ac.uk</strong></a></td>
 				</tr>
 			</table>
-
 		</div>
 		<div class="images-right">
-
-		    	<img src="img/artwork/3ivb.jpg" alt="&copy; Anthony Palmer">
-		    	<div class="caption">&copy; Anthony Palmer</div>
+			<img src="img/artwork/3ivb.jpg" alt="&copy; Anthony Palmer">
+			<div class="caption">&copy; Anthony Palmer</div>
 		</div>
 	</div>
-
 	<div class="images-text-group">
-
 		<div class="text">
 			<h3>Brighton</h3>
-
 			<p><strong>The Tutor:</strong> Gill Golding is an urban landscape photographer whose method of engaging with
 			the urban environment is to walk. She has lived in Brighton &amp; Hove for 20 years and has
 			enjoyed discovering several histories of the city, and through her walking, has observed and
 			experienced changes to numerous neighbourhoods. Gill is currently pursuing an MA in
 			Photography and Urban Cultures at Goldsmiths University.</p>
-
 			<p><strong>The Walk:</strong> When we think of Brighton, we tend to think about the sea, the pier, the Pavilion
 			and the Regency architecture, but there is another side of Brighton to explore also. Brighton
 			&amp; Hove became a city in 2000, and beneath the facades of the different neighbourhoods are
@@ -164,14 +139,12 @@ international photographer Peter Marlow"; ?>
 			with it a new story, layered on top of the old one. Come and discover how our culture of
 			independent shops emerged; see some examples of the bungaroosh used in some of our
 			architecture; walk down a twitten or two with me.</p>
-
 			<p>Our walk begins at the station where, over a cup of coffee, a potted history of the area is
 			provided. We will walk through London Road, the North Laine, The Lanes and Kemptown,
 			walking back along the seafront as the light is fading and, if there are clear skies, the sun will
 			be setting. There will be a brief lunch break which, depending on the weather, will be by the
 			sea or in a local cafe. </p>
 			<p><strong>What you will need:</strong> Comfortable shoes and any type of camera (yes, a phone camera will be fine!) – and if you would prefer, a packed lunch</p>
-
 			<table  >
 				<tr>
 					<td class="table-bold">Date</td>
@@ -202,15 +175,11 @@ international photographer Peter Marlow"; ?>
 					<td>Please contact <a href="b.v.argueta@gold.ac.uk"><strong>b.v.argueta@gold.ac.uk</strong></a></td>
 				</tr>
 			</table>
-
 		</div>
 		<div class="images-right">
-
-	    	<img src="img/artwork/3ivc.jpg" alt="&copy; Gill Golding">
-	    	<div class="caption">&copy; Gill Golding</div>
-
+			<img src="img/artwork/3ivc.jpg" alt="&copy; Gill Golding">
+			<div class="caption">&copy; Gill Golding</div>
 		</div>
 	</div>
-
 </div>
 <?php include_once 'includes/footer.php'; ?>

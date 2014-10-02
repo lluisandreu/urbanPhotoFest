@@ -11,15 +11,12 @@ contemporary city"; ?>
 	<div class="images-text-group">
 		<div class="text-fullwidth">
 			<h1>Social Events</h1>
-
 			<h3>Urban Photo Fest Opening Reception</h3>
-
 			<p>We will be hosting the opening of Urban Photo Fest this year at Tate Britain in
 			the Clore Auditorium Foyer. This is great opportunity to meet with other urban
 			photographers, film-makers, artists, researchers and those interested in
 			contemporary city life. This event is open to those attending the Urban
 			Encounters conference, so early booking of your ticket is recommended. </p>
-
 			<p>Please note that on Saturday 25 October, we are providing a Routemaster
 			double-decker bus to take those attending the Tate conference to the Habitus
 			exhibition at the Menier Gallery at the Menier Gallery. </p>
@@ -54,14 +51,12 @@ contemporary city"; ?>
 	<div class="images-text-group">
 		<div class="text-fullwidth">
 			<h3>Urban Photo Fest Closing Reception</h3>
-
 			<p>The closing event of Urban Photo Fest will be hosted by The Greenwich
 			Gallery. For those attending events throughout the five days, this will provide
 			and opportunity to see the final exhibition, and to network with people that
 			have attended other festival events. Undoubtedly, there will be conversations
 			about future events and collaborations, and along with the photographic work,
 			there will be wine. </p>
-
 			<p>Please note that on Saturday 25 October, we are providing a Routemaster
 			double-decker bus to take those attending the Tate conference to the Habitus
 			exhibition at the Menier Gallery at [pick-up time pending from Stefano or

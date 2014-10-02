@@ -15,7 +15,6 @@ sometimes before our eyes, and sometimes almost imperceptibly over time"; ?>
         international group of photographers and artists whose visual practices
         address the representation and evocation of contemporary city spaces,
         examines the notion of movement within and on the fringes of such spaces. </p>
-
         <p>Association members were asked to respond to the exhibition theme, and
         there was an expectation that the resulting images would be varied, diverse
         and have a quality of montage rather than a tight, linear flow. We thought that
@@ -23,7 +22,6 @@ sometimes before our eyes, and sometimes almost imperceptibly over time"; ?>
         ways of seeing and thinking about the urban domain, that to try to impose a
         visual over-view does not do justice to or reflect the range of practices at play
         within this ever-expanding field.</p>
-
         <p>All of the artists here are active urban visual researchers often involved in
         long-term projects, and these images invite viewers to reconsider how such a
         core urban theme might be approached from a multiplicity of perspectives. </p>
@@ -117,25 +115,24 @@ sometimes before our eyes, and sometimes almost imperceptibly over time"; ?>
             <tr>
                 <td class="table-bold">Info and Booking</td>
                 <td>
-                <a href="http://urbanphotographers.org">urbanphotographers.org</a>
-                <a href="http://www.silverprint.co.uk/category/gallery-2/" target="_blank">silverprint.co.uk</a></td>
-            </tr>
-        </table>
-        <p><strong>Supported by:</strong></p>
+                    <a href="http://urbanphotographers.org">urbanphotographers.org</a>
+                    <a href="http://www.silverprint.co.uk/category/gallery-2/" target="_blank">silverprint.co.uk</a></td>
+                </tr>
+            </table>
+            <p><strong>Supported by:</strong></p>
             <div class="supported-logos">
-            <img src="img/logos/openvizor.jpg" alt="openvizor">
-            <img src="img/logos/photofusion_logo.jpg" alt="Photofusion">
-            <img src="img/logos/fujifilm.jpg" alt="Fujifilm">
-            <img src="img/logos/goldsmiths-logo.jpg" alt="Goldsmiths">
-            <img src="img/logos/upf-logo.jpg" alt="UPF">
-            <img src="img/logos/silverprint.jpg" alt="Silverprint">
-            <img src="img/logos/cucr-20.jpg" alt="Curc 20">
-
+                <img src="img/logos/openvizor.jpg" alt="openvizor">
+                <img src="img/logos/photofusion_logo.jpg" alt="Photofusion">
+                <img src="img/logos/fujifilm.jpg" alt="Fujifilm">
+                <img src="img/logos/goldsmiths-logo.jpg" alt="Goldsmiths">
+                <img src="img/logos/upf-logo.jpg" alt="UPF">
+                <img src="img/logos/silverprint.jpg" alt="Silverprint">
+                <img src="img/logos/cucr-20.jpg" alt="Curc 20">
             </div>
+        </div>
+        <div class="images-right">
+            <img src="img/artwork/4ii.jpg" alt="&copy; Kyler Zeleny">
+            <div class="caption">&copy; Kyler Zeleny</div>
+        </div>
     </div>
-    <div class="images-right">
-        <img src="img/artwork/4ii.jpg" alt="&copy; Kyler Zeleny">
-        <div class="caption">&copy; Kyler Zeleny</div>
-    </div>
-</div>
-<?php include_once 'includes/footer.php'; ?>
+    <?php include_once 'includes/footer.php'; ?>

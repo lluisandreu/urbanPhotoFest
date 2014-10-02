@@ -1,145 +1,110 @@
 @charset "UTF-8";
 /* menu and slideshows */
-
 /*---- CROSS BROWSER DROPDOWN MENU ----*/
-
-
 ul#nav
-
-	{
-	margin: 4em 0 0 0;
-	background: #fff;
-	width: 100%;
-		}
-
+{
+margin: 4em 0 0 0;
+background: #fff;
+width: 100%;
+}
 ul.drop a
-
-	{
-		display:block; color: #333; text-decoration: none;
-		}
-
+{
+display:block; color: #333; text-decoration: none;
+}
 ul.drop, ul.drop li, ul.drop ul
-
-	{
-		list-style: none;
-		margin: 0;
-		padding: 0;
-		/*border: 1px solid #fff;*/
-		color: #fff;
-		}
-
+{
+list-style: none;
+margin: 0;
+padding: 0;
+/*border: 1px solid #fff;*/
+color: #fff;
+}
 ul.drop
-
-	{
-		position: relative;
-		z-index: 597;
-		float: left;
-		}
-
+{
+position: relative;
+z-index: 597;
+float: left;
+}
 ul.drop li
-
-	{
-		float: left;
-		line-height: 1.3em;
-		vertical-align: middle;
-		padding: 12px 28px; /* was 5px 10px */
-		}
-
+{
+float: left;
+line-height: 1.3em;
+vertical-align: middle;
+padding: 12px 28px; /* was 5px 10px */
+}
 ul.drop li.hover, ul.drop li:hover, ul.drop li.active
-
-	{
-		position: relative;
-		z-index: 599;
-		cursor: default;
-		background:yellow;
-		color:#333;
-		}
-
+{
+position: relative;
+z-index: 599;
+cursor: default;
+background:yellow;
+color:#333;
+}
 ul.drop ul
-
-	{
-		visibility: hidden;
-		position: absolute;
-		top: 100%;
-		left: 0;
-		z-index: 598;
-		width: 195px;
-		background: #fff;
-		border: 1px solid #fff;
-		}
-
+{
+visibility: hidden;
+position: absolute;
+top: 100%;
+left: 0;
+z-index: 598;
+width: 195px;
+background: #fff;
+border: 1px solid #fff;
+}
 ul.drop ul li
-
-	{
-		float: none;
-		}
-
+{
+float: none;
+}
 ul.drop ul ul
-
-	{
-		top: -2px;
-		left: 100%;
-		}
-
+{
+top: -2px;
+left: 100%;
+}
 ul.drop li:hover > ul
-
-	{
-		visibility: visible;
-		}
-
-
+{
+visibility: visible;
+}
 /*- See more at: http://www.handy-html.com/create-a-simple-css-dropdown-menu/#sthash.sb15jRy3.dpuf */
-
 /*---- END MENU ----*/
-
-
 /*slideshow*/
-
 .cycle-prev
-	{
-		width: 50%;
-		z-index: 500; /*puts slideshow underneath menu*/
-		position: absolute;
-		top: 0;
-		left:0;
-		height: 100%;
-		}
-
-		.cycle-prev:hover
-			{
-				background: url(img/arrow-prev.png) 8% 50% no-repeat;
-				opacity:0.75;
-				}
-
+{
+width: 50%;
+z-index: 500; /*puts slideshow underneath menu*/
+position: absolute;
+top: 0;
+left:0;
+height: 100%;
+}
+.cycle-prev:hover
+{
+background: url(img/arrow-prev.png) 8% 50% no-repeat;
+opacity:0.75;
+}
 .cycle-next
-	{
-		width: 50%;
-		z-index: 500;
-		position: absolute;
-		top: 0;
-		right:0;
-		height: 100%;
-		}
-
-		.cycle-next:hover
-			{
-				background: url(img/arrow-next.png) 92% 50% no-repeat;
-				opacity:0.75;
-				}
-
-
+{
+width: 50%;
+z-index: 500;
+position: absolute;
+top: 0;
+right:0;
+height: 100%;
+}
+.cycle-next:hover
+{
+background: url(img/arrow-next.png) 92% 50% no-repeat;
+opacity:0.75;
+}
 /*links*/
-
 a:link, a:visited
-	{
-	 	color: #333;
-	 	text-decoration:none;
-	 	-webkit-transition: color 200ms ease-in; /*safari and chrome */
-	 	-o-transition: color 200ms ease-in; /* opera */
-		}
-
+{
+color: #333;
+text-decoration:none;
+-webkit-transition: color 200ms ease-in; /*safari and chrome */
+-o-transition: color 200ms ease-in; /* opera */
+}
 a:hover
-	{
-	 	color: #888;
-	 	text-decoration:none;
-		}
+{
+color: #888;
+text-decoration:none;
+}

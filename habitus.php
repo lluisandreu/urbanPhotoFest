@@ -9,7 +9,6 @@ MA Photography and Urban Cultures students from Goldsmiths"; ?>
 <div id="main" class="clearfix">
     <div class="text">
         <h1>Habitus</h1>
-
         <p>Habitus is a photography exhibition showcasing the work of a number of
         MA Photography and Urban Cultures students from Goldsmiths,
         University of London. The exhibition is also part of the Urban Photo Fest
@@ -26,7 +25,6 @@ MA Photography and Urban Cultures students from Goldsmiths"; ?>
         realm. Through the connection of theory, practice and discussion the
         participants have engaged in core themes of urban cultures. This
         exhibition is a visual manifestation of collective dialogue. </p>
-
         <p><strong>Artists:</strong> Heather Agyepong, Kamal Badhey, Yemisi Blake, Carolina
         Gonzalez Buendia, June Cadogan, Stefano Carnelli, Karolis Čivinskas,
         Andy Day, Judith Fischer, Lizzie Godfrey, Rosanna Goodchild,
@@ -65,14 +63,12 @@ MA Photography and Urban Cultures students from Goldsmiths"; ?>
         </table>
     </div>
     <div class="images-right">
-            <img src="img/artwork/4ia.jpg" alt="&copy; Heather Agyepong">
-            <div class="caption">&copy; Heather Agyepong</div>
-
-            <img src="img/artwork/4ib.jpg" alt="&copy; Kamal Badhey">
-            <div class="caption">&copy; Kamal Badhey</div>
-
-            <img src="img/artwork/4ic.jpg" alt="&copy; Pablo Conejo">
-            <div class="caption">&copy; Pablo Conejo</div>
+        <img src="img/artwork/4ia.jpg" alt="&copy; Heather Agyepong">
+        <div class="caption">&copy; Heather Agyepong</div>
+        <img src="img/artwork/4ib.jpg" alt="&copy; Kamal Badhey">
+        <div class="caption">&copy; Kamal Badhey</div>
+        <img src="img/artwork/4ic.jpg" alt="&copy; Pablo Conejo">
+        <div class="caption">&copy; Pablo Conejo</div>
     </div>
 </div>
 <?php include_once 'includes/footer.php'; ?>

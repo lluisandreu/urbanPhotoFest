@@ -8,7 +8,6 @@
 <div id="main" class="clearfix">
     <div class="text-fullwidth">
         <h2>The Festival</h2>
-
         <p>Urban Photo Fest has evolved through a number of conversations, research
         initiatives and exhibitions involving a wide range of partners and contributors
         from the areas of visual arts, film and photography, education, urban research
@@ -27,7 +26,6 @@
         is also pleased to welcome Anne Zeitz as festival artist, in addition to
         participating in the Tate conference, Anne will be developing a workshop and
         exhibition for next year’s festival. </p>
-
         <p>In addition to the main conference at Tate Britain, we are offering a series of
         walks on the conference weekend Sunday, where participants will be
         encouraged to think about and experience movement and flow through a
@@ -37,7 +35,6 @@
         (Association of Urban Photographers) at the Silver Print Gallery, and <em>Close to
         Nowhere</em> (a selection of images from a ten year project focusing on global
         cities) at the Greenwich Gallery. </p>
-
         <p>Which brings us to this year’s festival theme of <em>Movement</em>, <em>Mobilities and
         Migrations</em>. These words mean different things to urbanists, photographers
         and artists; and that is what we want to encourage people to explore
@@ -48,7 +45,6 @@
         encourages debate about the nature of contemporary photography, and the
         possibility to network with others interested in this increasingly vital area of
         visual and urban practice. </p>
-
         <p><strong>Paul Halliday</strong><br>Creative Director, Urban Photo Fest </p>
     </div>
 </div>
