@@ -1,7 +1,7 @@
 <div id="footer">
     <div id="partners">The Greenwich Gallery, Westminster Kingsway, Platform7, Menier Gallery, iAVU
         <div class="sponsors"><a href="http://www.tate.org.uk/whats-on/tate-britain/conference/urban-encounters-2014-movementsmobilitiesmigrations" target="_blank"><img src="img/logos/tate-britain-logo.jpg" alt="photo democracy"></a></div>
-        <div class="sponsors"><a href="http://www.openvizor.com" target="_blank"><img src="img/logos/fotosynthesis-logo.jpg" alt="fotosynthesis logo"></a></div>
+        <div class="sponsors"><a href="http://www.openvizor.com" target="_blank"><img src="img/logos/openvizor.jpg" alt="Openvizor"></a></div>
         <div class="sponsors"><a href="http://www.fada.kingston.ac.uk/index.php" target="_blank" ><img src="img/logos/kingston-university-logo.jpg" alt="kingston-university-logo"></a></div>
         <div class="sponsors"><a href="http://www.iupss.com/" target="_blank"><img src="img/logos/iupss-logo.jpg" alt="IUPSS logo"></a></div>
         <div class="sponsors"><a href="http://www.gold.ac.uk/cucr/20years/" target="_blank"><img src="img/logos/cucr-20.jpg" alt="CUCR 20 Years"></a></div>
@@ -9,7 +9,7 @@
         <div class="sponsors"><a href="http://www.urbanphotographers.org" target="_blank"><img src="img/logos/urban-photographers-logo.jpg" alt="urban photographers logo"></a></div>
         <div class="sponsors"><a href="http://www.silverprint.co.uk/category/gallery-2/" target="_blank" ><img src="img/logos/silverprint.jpg" alt="Silverprint"></a></div>
         <div class="sponsors"><a href="http://www.photofusion.org" target="_blank" ><img src="img/logos/photofusion_logo.jpg" alt="Photofusion"></a></div>
-        <div class="sponsors"><a href="http://www.fotosynthesiscommunity.org.uk" target="_blank"><img src="img/logos/openvizor.jpg" alt="Fotosynthesis"></a></div>
+        <div class="sponsors"><a href="http://www.fotosynthesiscommunity.org.uk" target="_blank"><img src="img/logos/fotosynthesis-logo.jpg" alt="Fotosynthesis"></a></div>
         <div class="sponsors"><a href="http://www.londonphotography.org.uk" target="_blank"><img src="img/logos/london-independent-photography-logo.jpg" alt="london independent photography logo"></a></div>
         <div class="sponsors"><a href="http://www.fujifilm.com" target="_blank"><img src="img/logos/fujifilm.jpg" alt="Fujifilm"></a></div>
         <div class="sponsors"><a href="http://www.thegreenwichgallery.com/calendar-of-oos-events/4584159561" target="_blank" ><img src="img/logos/the-greenwhich-gallery.jpg" alt="The Greenwhich Gallery"></a></div>
