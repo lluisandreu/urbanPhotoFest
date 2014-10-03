@@ -1,5 +1,5 @@
 <div id="footer">
-    <div id="partners">The Greenwich Gallery, Westminster Kingsway, Platform7, Menier Gallery, iAVU
+    <div id="partners">
         <div class="sponsors"><a href="http://www.tate.org.uk/whats-on/tate-britain/conference/urban-encounters-2014-movementsmobilitiesmigrations" target="_blank"><img src="img/logos/tate-britain-logo.jpg" alt="photo democracy"></a></div>
         <div class="sponsors"><a href="http://www.openvizor.com" target="_blank"><img src="img/logos/openvizor.jpg" alt="Openvizor"></a></div>
         <div class="sponsors"><a href="http://www.fada.kingston.ac.uk/index.php" target="_blank" ><img src="img/logos/kingston-university-logo.jpg" alt="kingston-university-logo"></a></div>
