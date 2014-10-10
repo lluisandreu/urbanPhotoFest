@@ -54,7 +54,7 @@ international photographer Peter Marlow"; ?>
 	<div class="images-text-group">
 		<div class="text">
 			<h3>Polaroid Workshop with Westminster Kingsway A2 Media Studies Students </h3>
-			<p>This workshop will focus on how things and people move through urban space. Students will be introduced to a variety of instant analogue cameras, working with recent graduates of the MA Photography and Urban Cultures programme at Goldsmiths, University of London. Facilitated by Roxanne Baptiste from Kingsway Westminster College.</p>
+			<p>This workshop will focus on how things and people move through urban space. Students will be introduced to a variety of instant analogue cameras, working with recent graduates of the MA Photography and Urban Cultures programme at Goldsmiths, University of London. Facilitated by Roxanne Baptiste from Westminster Kingsway College.</p>
 			<p>After an introductory session where the workshop leaders will discuss ideas and approaches to movement within photography, students will walk around the Kings Cross area and complete an assignment based on the workshop theme. The images will be up-loaded onto the UPF website.</p>
 			<p><strong>Workshop leaders: </strong>Andy Day, June Cadogan, Kamal Badhey, Mattias Malk</p>
 			<table  >
@@ -68,7 +68,7 @@ international photographer Peter Marlow"; ?>
 				</tr>
 				<tr>
 					<td class="table-bold">Venue</td>
-					<td>Westminster Kingsway FE College | 211 Grays Inn Road <br> WC1X 8RA | Tel: 08700609800</td>
+					<td>Westminster Kingsway College | 211 Grays Inn Road <br> WC1X 8RA | Tel: 08700609800</td>
 				</tr>
 				<tr>
 					<td class="table-bold">Cost</td>
