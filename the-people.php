@@ -47,7 +47,8 @@
 			</tr>
 			<tr>
 				<td class="table-bold">Volunteers</td>
-				<td></td>
+				<td>Heather Agyepong,  Javier Chorbadjian Alonso, Kamal Badhey, June Cadogan, Jasmine Cheng, Andy Day, Kamna Dhankhar, Sophie Ebrey, Judith Fischer, Kevin Fitzgerald, 
+				Sally Hart, Tanya Houghton, Nai-Wen Hsu, Juliet Kahne, Tomoko Kinoshita, Robert McCormack, Anthony Palmer, Nacho Piqueras, Yuanfang Ren, Emily Stone, Anita Strasser, Beatrice Tura</td>
 			</tr>
 		</table>
 		<p>To get in touch with any of the Urban Photo Fest team, <br/>please go to our <a href="contact.php">contact</a> page.</p>
