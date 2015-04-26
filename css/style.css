@@ -304,3 +304,11 @@ height: 0;
 clear: both;
 visibility: hidden;
 }
+
+/* Gallery */
+.gallery {
+	text-align: center;
+}
+.owl-dots {
+	margin-top: 20px;
+}

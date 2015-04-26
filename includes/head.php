@@ -7,6 +7,8 @@
         <link rel="stylesheet" type="text/css" href="css/formalize.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/menu-and-galleries.css">
+        <link rel="stylesheet" type="text/css" href="contrib/owl.carousel/assets/owl.carousel.css">
+        <link rel="stylesheet" type="text/css" href="contrib/owl.carousel/assets/owl.theme.default.css">
         <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
     </head>
     <body>

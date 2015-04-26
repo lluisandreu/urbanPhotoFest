@@ -33,6 +33,7 @@
 </div>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/jquery-1.11.1.min.js"><\/script>')</script>
+<script type="text/javascript" src="contrib/owl.carousel/owl.carousel.min.js"></script>
 <script src="js/hamishs-jquery.js"></script>
 <script type="text/javascript">
         var _gaq = _gaq || [];

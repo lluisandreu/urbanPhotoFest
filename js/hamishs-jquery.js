@@ -4,6 +4,16 @@ $(document).ready(function(){
 		$('#main').fadeIn('slow');
 		$('#main-home').fadeIn('slow');
 
+		$('.owl-gallery').owlCarousel({
+			items: 1,
+		    stagePadding: 100,
+		    loop:true,
+		    margin:10,
+		    dots: true,
+		    //dotsEach: true,
+		    nav:true,
+		})
+
 });
 
 activeMenu();

@@ -33,6 +33,7 @@
 </li>
 <li><a href="upf12.php">Gallery &amp; Archives &#8744;</a>
 <ul>
+<li><a href="gallery.php">WKC Polaroid Workshop</a></li>
 <li><a href="upf12.php">UPF12</a></li>
 <li><a href="upf13.php">UPF13</a></li>
 </ul>
